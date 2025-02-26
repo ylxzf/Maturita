@@ -1,4 +1,9 @@
 {
-  "cssTheme": "Abecedarium",
-  "textFontFamily": ""
+  "cssTheme": "AnuPpuccin",
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "theme": "obsidian",
+  "accentColor": "#5cc0ff"
 }

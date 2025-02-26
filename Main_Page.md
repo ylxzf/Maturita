@@ -1,75 +1,95 @@
 ## Stavba a provoz PC
-1. Základní deska PC, CPU, RAM, BIOS, Setup
-2. Rozhraní a konektory na PC
-3. Úložná zařízení
-4. Rozšiřující karty PC
-5. Vstupní zařízení
-6. Výstupní zařízení 1 – zobrazovací jednotky
-7. Výstupní zařízení 2 – tiskárny
-8. Napájení, diagnostika a testování PC
-9. Operační systém
-10. Zavedení OS, Více OS na jednom pevném disku
-11. Práce s oprávněními a s registry OS OS Microsoft, Windows – příkazový řádek
-12. Zálohování struktur na pevném disku
-13. Základní práce s OS Linux – terminál (základní příkazy OS)
-14. Virtualizace a virtuální PC
-15. Windows server 2008 / 2012, DNS princip, AD
-16. Bezpečnost v OS
-17. Souborové systémy, oprávnění v různých OS
-18. Počítačová síť
-19. Přístupové metody k médiu
-20. Referenční model ISO/OSI a síťový model TCP/IP
-21. Síťové prvky
-22. Adresace v sítích
-23. VLAN
-24. Směrování
-25. Bezpečnost v počítačových sítích
+1. [ ] [[1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup|Základní deska PC, CPU, RAM, BIOS, Setup]] 
+2. [ ] [[2_Rozhrani-a-konektory|Rozhraní a konektory na PC]]
+3. [ ] [[3_Ulozna-zarizeni|Úložná zařízení]]
+4. [ ] [[4_Rozsirujici-karty-PC|Rozšiřující karty PC]]
+5. [ ] [[5_Vstupni-zarizeni|Vstupní zařízení]]
+6. [ ] [[6_Vystupni-zarizeni-1-Zobrazovaci-jednotky|Výstupní zařízení 1 – zobrazovací jednotky]]
+7. [ ] [[7_Vystupni-zarizeni-2-tiskarny|Výstupní zařízení 2 – tiskárny]]
+8. [ ] [[8_Napajeni-diagnostika-a-testovani-PC|Napájení, diagnostika a testování PC]]
+9. [ ] [[9_Operacni-system|Operační systém]]
+10. [ ] [[10_Zavedeni-OS-Vice-OS-na-jednom-pevnem-disku|Zavedení OS, Více OS na jednom pevném disku]]
+11. [ ] [[11_Prace-s-opravnenimi-a-s-registry-OS-Windows-prikazovy-radek|Práce s oprávněními a s registry OS OS Microsoft, Windows – příkazový řádek]]
+12. [ ] [[12_Zalohovani-struktur-na-pevem-disku|Zálohování struktur na pevném disku]]
+13. [ ] [[13_Zakladni-prace-s-OS-Linux-terminal|Základní práce s OS Linux – terminál (základní příkazy OS)]]
+14. [ ] [[14_Virtualizace-a-virtualni-PC|Virtualizace a virtuální PC]]
+15. [ ] [[15_Windows-server-2008-2012-DNS-Princip-AD|Windows server 2008 / 2012, DNS princip, AD]]
+16. [ ] [[16_Bezpecnost-v-OS|Bezpečnost v OS]]
+17. [ ] [[17_Souborove-systemy-opravneni-v-ruznych-OS|Souborové systémy, oprávnění v různých OS]]
+18. [ ] [[18_Pocitacova-sit|Počítačová síť]]
+19. [ ] [[19_Pristupove-metody-k-mediu|Přístupové metody k médiu]]
+20. [ ] [[20_Referencni-model-ISO-OSI-a-sitovy-model-TCP-IP|Referenční model ISO/OSI a síťový model TCP/IP]]
+21. [ ] [[21_Sitove-prvky|Síťové prvky]]
+22. [ ] [[22_Adresace-v-sitich|Adresace v sítích]]
+23. [ ] [[23_VLAN|VLAN]]
+24. [ ] [[24_Smerovani|Směrování]]
+25. [ ] [[25_Bezpecnost-v-pocitacovych-sitich|Bezpečnost v počítačových sítích]]
 ## Programovací technologie
 
-1. Kódování dat
-2. MS Excel I
-3. MS Excel II
-4. Teorie DB
-5. MS Access I
-6. Programování v MS Office - kód VBA
-7. HTML + CSS
-8. Soubory v programování
-9. Datová struktura pole a vyhledávání v poli
-10. Řadící algoritmy
-11. SQL
-12. Dynamický web
-13. Objekty, Atributy, Metody
-14. Dědičnost, Rozhraní, Polymorfismus
-15. Datové typy, Řetězce, Enum
-16. ADT (Zásobník, Fronta, Bin. Strom)
-17. Chyby v programování a mechanismus výjimek
-18. Teoretické výpočetní modely
-19. Algoritmy pro převod (Morseova abeceda + Šifrování)
-20. Teorie grafů
-21. Numerická matematika
-22. Algoritmus, Přístupy k vývoji SW, Testování
-23. Kolekce
-24. Náhodná čísla a Permutace
-25. Prvočíselnost a její testování
+1. [ ] [[1_Kodovani-dat|Kódování dat]]
+2. [ ] [[2_MS-Excel-I|MS Excel I]]
+3. [ ] [[3_MS-Excel-II|MS Excel II]]
+4. [ ] [[4_Teorie-DB|Teorie DB]]
+5. [ ] [[5_MS-Access-I|MS Access I]]
+6. [ ] [[6_Programovani-v-MS-Office-kod-VBA|Programování v MS Office - kód VBA]]
+7. [ ] [[7_HTML-CSS|HTML + CSS]]
+8. [ ] [[8_Soubory-v-programovani|Soubory v programování]]
+9. [ ] [[9_Datova-struktura-pole-a-vyhledavani-v-poli|Datová struktura pole a vyhledávání v poli]]
+10. [ ] [[10_Radici-algoritmy|Řadící algoritmy]]
+11. [ ] [[11_SQL|SQL]]
+12. [ ] [[12_Dynamicky-web|Dynamický web]]
+13. [ ] [[13_Objekty-Atributy-Metody|Objekty, Atributy, Metody]]
+14. [ ] [[14_Dedicnost-Rozhrani-Polymorfismus|Dědičnost, Rozhraní, Polymorfismus]]
+15. [ ] [[15_Datove-typy-Retezce-Enum|Datové typy, Řetězce, Enum]]
+16. [ ] [[16_ADT-Zasobnik-Fronta-Binarni-strom|ADT (Zásobník, Fronta, Bin. Strom)]]
+17. [ ] [[17_Chyby-v-programovani-a-mechanismus-vyjimek|Chyby v programování a mechanismus výjimek]]
+18. [ ] [[18_Teoreticke-vypocetni-modely|Teoretické výpočetní modely]]
+19. [ ] [[19_Algoritmy-pro-prevod-Morseova-abeceda-Sifrovani|Algoritmy pro převod (Morseova abeceda + Šifrování)]]
+20. [ ] [[20_Teorie-grafu|Teorie grafů]]
+21. [ ] [[21_Numericka-matematika|Numerická matematika]]
+22. [ ] [[22_Algoritmus-Pristupy-k-vyvoji-SW-Testovani|Algoritmus, Přístupy k vývoji SW, Testování]]
+23. [ ] [[23_Kolekce|Kolekce]]
+24. [ ] [[24_Nahodna-cisla-a-Permutace|Náhodná čísla a Permutace]]
+25. [ ] [[25_Prvociselnost-a-jeji-testovani|Prvočíselnost a její testování]]
 ## Anglický jazyk
-1. Czech Republic
-2. Prague
-3. Jihlava, Vysočina Region
-4. United Kingdom
-5. United States
-6. Canada, Australia, New Zealand
-7. William Shakespeare, Literature
-8. Notable Days in the Czech Republic
-9. Notable Days in English-speaking Countries
-10. My Home, Housing
-11. Shopping, Money, Services
-12. Meals, At the Restaurant
-13. Education
-14. Jobs, Future Career
-15. Health, At the Doctor´s
-16. Travel, Holidays
-17. Cars, Transport
-18. London
-19. New York and Other Big Cities
-20. Technology, Computing, Internet
+1. [ ] [[1_Czech-Republic|Czech Republic]]
+2. [ ] [[2_Prague|Prague]]
+3. [ ] [[3_Jihlava-Vysocina-Region|Jihlava, Vysočina Region]]
+4. [ ] [[4_United-Kingdom|United Kingdom]]
+5. [ ] [[5_United-States|United States]]
+6. [ ] [[6_Canada-Australia-New-Zealand|Canada, Australia, New Zealand]]
+7. [ ] [[7_William-Shakespeare-Literature|William Shakespeare, Literature]]
+8. [ ] [[8_Notable-Days-in-the-Czech-Republic|Notable Days in the Czech Republic]]
+9. [ ] [[9_Notable-Days-in-English-speaking-Countries|Notable Days in English-speaking Countries]]
+10. [ ] [[10_My-Home-Housing|My Home, Housing]]
+11. [ ] [[11_Shopping-Money-Services|Shopping, Money, Services]]
+12. [ ] [[12_Meals-At-the-Restaurant|Meals, At the Restaurant]]
+13. [ ] [[13_Education|Education]]
+14. [ ] [[14_Jobs-Future-Career|Jobs, Future Career]]
+15. [ ] [[15_Health-At-the-Doctors|Health, At the Doctor´s]]
+16. [ ] [[16_Travel-Holidays|Travel, Holidays]]
+17. [ ] [[17_Cars-Transport|Cars, Transport]]
+18. [ ] [[18-London|London]]
+19. [ ] [[19_New-York-and-Other-Big-Cities|New York and Other Big Cities]]
+20. [ ] [[20_Technology-Computing-Internet|Technology, Computing, Internet]]
 ## Český jazyk
+1. [ ] [[1_Romeo-a-Julie|William Shakespeare - Romeo a Julie]]
+2. [ ] [[2_Hamlet|William Shakespeare - Hamlet]]
+3. [ ] [[3_Revizor|Nikolaj Vasiljevič Gogol - Revizor]]
+4. [ ] [[4_Lakomec|Moliére - Lakomec]]
+5. [ ] [[5_Kral-Lavra|Karel Havlíček Borovský - Král Lávra]]
+6. [ ] [[6_Starec-a-more|Ernest Hemingway - Stařec a moře]]
+7. [ ] [[7_Maly-princ|Antoine Saint-Exupéry  - Malý princ]]
+8. [ ] [[8_Farma-zvirat|George Orwell  - Farma zvířat]]
+9. [ ] [[9_O-mysich-a-lidech|John Steinbeck  - O myších a lidech]]
+10. [ ] [[10_Petr-a-Lucie|Romain Rolland  - Petr a Lucie]]
+11. [ ] [[11_Promena|Franz Kafka  - Proměna]]
+12. [ ] [[12_Krysar|Viktor Dyk  - Krysař]]
+13. [ ] [[13_Valka_s_mloky|Karel Čapek  - Válka s mloky]]
+14. [ ] [[14_Bila_nemoc|Karel Čapek  - Bílá nemoc]]
+15. [ ] [[15_Spalovac-mrtvol|Ladislav Fuks  - Spalovač mrtvol]]
+16. [ ] [[16_Evzen-Onegin|Alexandr Sergejevič Puškin  - Evžen Oněgin]]
+17. [ ] [[17_Tyrolske-elegie|Karel Havlíček Borovský  - Tyrolské elegie]]
+18. [ ] [[18_Velky-Gatsby|Francis Scott Fitzgerald  - Velký Gatsby]]
+19. [ ] [[19_Na-zapadni-fronte-klid|Erich Maria Remarque  - Na západní frontě klid]]
+20. [ ] [[20_Kytice|Karel Jaromír Erben - Kytice]]

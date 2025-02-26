@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5459bcf0defc0f9",
+        "id": "547c0e543c153654",
         "type": "tabs",
         "children": [
           {
-            "id": "4636a2657180a716",
+            "id": "e60462507362d265",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Main_Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Main_Page"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Main_Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Main_Page"
             }
           },
           {
@@ -127,7 +127,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,50 +183,48 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "translate:Open translation view": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "4636a2657180a716",
+  "active": "e60462507362d265",
   "lastOpenFiles": [
-    "Cesky_jazyk/Files/Ondrej-Vondra/Seznam-cetby-k-maturitni-zkousce.pdf",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/William Shakespeare - Romeo a Julie (1)/William Shakespeare - ROMEO A JULIE.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/William Shakespeare - Romeo a Julie (1)/William Shakespeare - Romeo a Julie(1).docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/William Shakespeare - Romeo a Julie (1)/Romeo a Julie.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/William Shakespeare - Romeo a Julie (1)/1. Romeo a Julie.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/Shakespeare_Romeo_a_Julie.pdf",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/William Shakespeare - Romeo a Julie (1)",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/Romeo.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/Romeo a Julie.pdf",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/Franz Kafka - Proměna.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/4. romeo a julie.pdf",
+    "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
+    "Main_Page.md",
+    "Anglicky_jazyk/Files/MaturitaSpeakingTopics/pdf/TECHNOLOGY, COMPUTING, INTERNET (2024).pdf",
+    "Anglicky_jazyk/Files/MaturitaSpeakingTopics/docx/TECHNOLOGY, COMPUTING, INTERNET (2024).docx",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/20_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/19_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/18_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/17_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/16_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/15_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/14_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/13_ITTechQuestion.pdf",
+    "Untitled.md",
+    "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
+    "Stavba_a_provoz_PC/Markdown/9_Operacni-system.md",
+    "Stavba_a_provoz_PC/Markdown/16_Bezpecnost-v-OS.md",
+    "2025-02-26.md",
+    "Programovaci_technologie/Markdown/Extra.md",
+    "Stavba_a_provoz_PC/Markdown/Extra.md",
+    "Untitled.canvas",
+    "Stavba_a_provoz_PC/Markdown/7_Vystupni-zarizeni-2-tiskarny.md",
+    "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
+    "Stavba_a_provoz_PC/Markdown/10_Zavedeni-OS-Vice-OS-na-jednom-pevnem-disku.md",
+    "Cesky_jazyk/Markdown/20_Kytice.md",
+    "Cesky_jazyk/Markdown/19_Na-zapadni-fronte-klid.md",
+    "Cesky_jazyk/Markdown/18_Velky-Gatsby.md",
+    "Cesky_jazyk/Markdown/17_Tyrolske-elegie.md",
+    "Cesky_jazyk/Markdown/16_Evzen-Onegin.md",
+    "Cesky_jazyk/Markdown/15_Spalovac-mrtvol.md",
+    "Cesky_jazyk/Markdown/14_Bila_nemoc.md",
+    "Cesky_jazyk/Markdown/13_Valka_s_mloky.md",
+    "Cesky_jazyk/Markdown/11_Promena.md",
+    "Cesky_jazyk/Markdown/12_Krysar.md",
+    "Cesky_jazyk/Markdown/11-Promena.md",
+    "Cesky_jazyk/Markdown/10_Petr-a-Lucie.md",
+    "Cesky_jazyk/Markdown/9_O-mysich-a-lidech.md",
     "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/Erich Maria Remarque – Na Západní Frontě klid/na západní frontě.jpg",
-    "Cesky_jazyk/Markdown/20_Technology-Computing-Internet.md",
-    "Cesky_jazyk/Markdown/19_New-York-and-Other-Big-Cities.md",
-    "Cesky_jazyk/Markdown/18-London.md",
-    "Cesky_jazyk/Markdown/17_Cars-Transport.md",
-    "Cesky_jazyk/Markdown/16_Travel-Holidays.md",
-    "Cesky_jazyk/Markdown/15_Health-At-the-Doctors.md",
-    "Cesky_jazyk/Markdown/14_Jobs-Future-Career.md",
-    "Cesky_jazyk/Markdown/13_Education.md",
-    "Cesky_jazyk/Markdown/12_Meals-At-the-Restaurant.md",
-    "Cesky_jazyk/Markdown/11_Shopping-Money-Services.md",
-    "Cesky_jazyk/Markdown/10_My-Home-Housing.md",
-    "Cesky_jazyk/Markdown/9_Notable-Days-in-English-speaking-Countries.md",
-    "Cesky_jazyk/Markdown/8_Notable-Days-in-the-Czech-Republic.md",
-    "Cesky_jazyk/Markdown/7_William-Shakespeare-Literature.md",
-    "Cesky_jazyk/Markdown/6_Canada-Australia-New-Zealand.md",
-    "Cesky_jazyk/Markdown/5_United-States.md",
-    "Cesky_jazyk/Markdown/4_United-Kingdom.md",
-    "Cesky_jazyk/Markdown/3_Jihlava-Vysocina-Region.md",
-    "Cesky_jazyk/Markdown/2_Prague.md",
-    "Cesky_jazyk/Markdown/1_Czech-Republic.md",
-    "Anglicky_jazyk/Markdown/20_Technology-Computing-Internet.md",
-    "Anglicky_jazyk/Markdown/19_New-York-and-Other-Big-Cities.md",
-    "Anglicky_jazyk/Markdown/18-London.md",
-    "Anglicky_jazyk/Markdown/17_Cars-Transport.md",
-    "Anglicky_jazyk/Markdown/16_Travel-Holidays.md",
     "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey.jpg",
     "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 3.jpg",
     "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 2.jpg",

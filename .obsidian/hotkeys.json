@@ -1,0 +1,11 @@
+{
+  "editor:table-row-copy": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
+}
