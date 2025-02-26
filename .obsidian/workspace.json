@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "94cfc56f2b8422fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5459bcf0defc0f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4636a2657180a716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main_Page.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main_Page"
+            }
+          }
+        ]
+      },
+      {
+        "id": "850c1163bc92d88d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5aa53e3f268ba8a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Anglicky_jazyk/Files/Anglicky_jazyk_ustni_cast.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Anglicky_jazyk_ustni_cast"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d65b76b826a1dfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "70652c03b54c63c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cacca645cdffaef6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e0a947908f88696c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3409064d1a0b8154",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "521851a0da9d0ab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "46bb9d39bb924aeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51e73c0d4627b4f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "8a7be9b2351ab9f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "4c1157010fffe660",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bec2c15a29c58ed5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Main_Page.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Main_Page"
+            }
+          },
+          {
+            "id": "d06ca94d601f5d7d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "translate:Open translation view": false
+    }
+  },
+  "active": "4636a2657180a716",
+  "lastOpenFiles": [
+    "Cesky_jazyk/Files/Seznam-cetby-k-maturitni-zkousce.pdf",
+    "Cesky_jazyk/Files/knihy.pdf",
+    "Anglicky_jazyk/Markdown/20_Technology-Computing-Internet.md",
+    "Anglicky_jazyk/Markdown/19_New-York-and-Other-Big-Cities.md",
+    "Anglicky_jazyk/Markdown/18-London.md",
+    "Anglicky_jazyk/Markdown/17_Cars-Transport.md",
+    "Anglicky_jazyk/Markdown/16_Travel-Holidays.md",
+    "Anglicky_jazyk/Markdown/15_Health-At-the-Doctors.md",
+    "Anglicky_jazyk/Markdown/15_Health-At-the-Doctor's.md",
+    "Anglicky_jazyk/Markdown/14_Jobs-Future-Career.md",
+    "Anglicky_jazyk/Markdown/13_Education.md",
+    "Anglicky_jazyk/Markdown/12_Meals-At-the-Restaurant.md",
+    "Anglicky_jazyk/Markdown/11_Shopping-Money-Services.md",
+    "Anglicky_jazyk/Markdown/10_My-Home-Housing.md",
+    "Anglicky_jazyk/Markdown/9_Notable-Days-in-English-speaking-Countries.md",
+    "Anglicky_jazyk/Markdown/8_Notable-Days-in-the-Czech-Republic.md",
+    "Anglicky_jazyk/Markdown/7_William-Shakespeare-Literature.md",
+    "Anglicky_jazyk/Markdown/6_Canada-Australia-New-Zealand.md",
+    "Anglicky_jazyk/Markdown/5_United-States.md",
+    "Anglicky_jazyk/Markdown/4_United-Kingdom.md",
+    "Anglicky_jazyk/Markdown/3_Jihlava-Vysocina-Region.md",
+    "Anglicky_jazyk/Markdown/2_Prague.md",
+    "Anglicky_jazyk/Markdown/1_Czech-Republic.md",
+    "Anglicky_jazyk/Markdown/1_Kodovani-dat.md",
+    "Anglicky_jazyk/Markdown/25_Prvociselnost-a-jeji-testovani.md",
+    "Anglicky_jazyk/Markdown/24_Nahodna-cisla-a-Permutace.md",
+    "Anglicky_jazyk/Markdown/23_Kolekce.md",
+    "Anglicky_jazyk/Files/Anglicky_jazyk_ustni_cast.pdf",
+    "Programovaci_technologie/Files/Programovaci_technologie_JAVA.pdf",
+    "Stavba_a_provoz_PC/Files/Stavba_a_provoz_PC.pdf",
+    "Stavba_a_provoz_PC/Files/HW/Prezentace/22_Sitove_prvky.pdf",
+    "Stavba_a_provoz_PC/Files/HW/Prezentace/18_Zobrazovaci_zarizeni.pdf",
+    "Stavba_a_provoz_PC/Files/HW/Prezentace/23_Procesory.pdf",
+    "Stavba_a_provoz_PC/Files/HW/Prezentace/24_Opakovani.pdf",
+    "Stavba_a_provoz_PC/Files/HW/Prezentace/21_Scannery.pdf",
+    "Stavba_a_provoz_PC/Files/HW/Prezentace/20_Tiskarny.pdf",
+    "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey.jpg",
+    "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 3.jpg",
+    "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 2.jpg",
+    "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Erich Maria Remarque – Na Západní Frontě klid/na západní frontě.jpg",
+    "Cesky_jazyk/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey.jpg",
+    "Cesky_jazyk/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 3.jpg",
+    "Cesky_jazyk/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 2.jpg",
+    "Cesky_jazyk/Rozbory/Český jazyk - rozbory děl k maturitě/Erich Maria Remarque – Na Západní Frontě klid/na západní frontě.jpg"
+  ]
+}
