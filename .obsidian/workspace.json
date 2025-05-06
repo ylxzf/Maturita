@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "547c0e543c153654",
+        "id": "d1c767f5909e67c8",
         "type": "tabs",
         "children": [
           {
-            "id": "e60462507362d265",
+            "id": "7e6a3cf197d00ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main_Page.md",
-                "mode": "preview",
+                "file": "Cesky_jazyk/Markdown/1_Romeo-a-Julie.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main_Page"
+              "title": "1_Romeo-a-Julie"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5
   },
   "right": {
     "id": "521851a0da9d0ab6",
@@ -186,31 +186,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e60462507362d265",
+  "active": "7e6a3cf197d00ced",
   "lastOpenFiles": [
-    "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
-    "Main_Page.md",
-    "Anglicky_jazyk/Files/MaturitaSpeakingTopics/pdf/TECHNOLOGY, COMPUTING, INTERNET (2024).pdf",
-    "Anglicky_jazyk/Files/MaturitaSpeakingTopics/docx/TECHNOLOGY, COMPUTING, INTERNET (2024).docx",
-    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/20_ITTechQuestion.pdf",
-    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/19_ITTechQuestion.pdf",
-    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/18_ITTechQuestion.pdf",
-    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/17_ITTechQuestion.pdf",
-    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/16_ITTechQuestion.pdf",
-    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/15_ITTechQuestion.pdf",
-    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/14_ITTechQuestion.pdf",
-    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/13_ITTechQuestion.pdf",
-    "Untitled.md",
-    "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
-    "Stavba_a_provoz_PC/Markdown/9_Operacni-system.md",
-    "Stavba_a_provoz_PC/Markdown/16_Bezpecnost-v-OS.md",
-    "2025-02-26.md",
-    "Programovaci_technologie/Markdown/Extra.md",
-    "Stavba_a_provoz_PC/Markdown/Extra.md",
-    "Untitled.canvas",
-    "Stavba_a_provoz_PC/Markdown/7_Vystupni-zarizeni-2-tiskarny.md",
-    "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
-    "Stavba_a_provoz_PC/Markdown/10_Zavedeni-OS-Vice-OS-na-jednom-pevnem-disku.md",
+    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/George Orwell - Farma zvířat/~$chal Kadlec - Příprava k ústní maturitě - tabulka na referát.docx",
+    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/Francis Scott Fitzgeral - Velký Gatsby/~$ancis Scott Fitzgerald - VELKÝ GATSBY.docx",
+    "Anglicky_jazyk/Markdown/9_Notable-Days-in-English-speaking-Countries.md",
+    "Anglicky_jazyk/Markdown/18-London.md",
+    "Cesky_jazyk/Markdown/1_Romeo-a-Julie.md",
+    "Cesky_jazyk/Markdown/6_Starec-a-more.md",
+    "Cesky_jazyk/Markdown/7_Maly-princ.md",
+    "Cesky_jazyk/Markdown/5_Kral-Lavra.md",
+    "Cesky_jazyk/Markdown/4_Lakomec.md",
+    "Cesky_jazyk/Markdown/3_Revizor.md",
+    "Cesky_jazyk/Markdown/2_Hamlet.md",
     "Cesky_jazyk/Markdown/20_Kytice.md",
     "Cesky_jazyk/Markdown/19_Na-zapadni-fronte-klid.md",
     "Cesky_jazyk/Markdown/18_Velky-Gatsby.md",
@@ -219,11 +207,24 @@
     "Cesky_jazyk/Markdown/15_Spalovac-mrtvol.md",
     "Cesky_jazyk/Markdown/14_Bila_nemoc.md",
     "Cesky_jazyk/Markdown/13_Valka_s_mloky.md",
-    "Cesky_jazyk/Markdown/11_Promena.md",
     "Cesky_jazyk/Markdown/12_Krysar.md",
-    "Cesky_jazyk/Markdown/11-Promena.md",
+    "Cesky_jazyk/Markdown/11_Promena.md",
     "Cesky_jazyk/Markdown/10_Petr-a-Lucie.md",
     "Cesky_jazyk/Markdown/9_O-mysich-a-lidech.md",
+    "Cesky_jazyk/Markdown/8_Farma-zvirat.md",
+    "Anglicky_jazyk/Markdown/1_Czech-Republic.md",
+    "Anglicky_jazyk/Markdown/20_Technology-Computing-Internet.md",
+    "Anglicky_jazyk/Markdown/6_Canada-Australia-New-Zealand.md",
+    "Anglicky_jazyk/Files/MaturitaSpeakingTopics/Oral Maturita 2025.pdf",
+    "Anglicky_jazyk/Files/MaturitaSpeakingTopics/pdf/CANADA, AUSTRALIA + NZ.pdf",
+    "Anglicky_jazyk/Files/MaturitaSpeakingTopics/pdf/TECHNOLOGY, COMPUTING, INTERNET (2024).pdf",
+    "Anglicky_jazyk/Files/MaturitaSpeakingTopics/docx/TECHNOLOGY, COMPUTING, INTERNET (2024).docx",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/20_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/19_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/18_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/17_ITTechQuestion.pdf",
+    "Anglicky_jazyk/Files/TechnicalQuestionsIT/pdf/16_ITTechQuestion.pdf",
+    "Untitled.canvas",
     "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/Erich Maria Remarque – Na Západní Frontě klid/na západní frontě.jpg",
     "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey.jpg",
     "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 3.jpg",
