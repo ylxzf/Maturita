@@ -1,0 +1,37 @@
+Vítejte u této příručky pro linux shell.
+Proměnné jsou v tomto textu řešené {proměnná}
+root@ubuntu:~$ ls - Příkazy jsou vždycky za tímhletím dolary
+
+Příkazy:
+rm -rf / -smaže celej os
+první řádek sh scriptu #! /usr/bin/bash
+příkaz --help -vypíše nápovědu k příkazu
+whoami -vypíše název aktuálního uživatele
+mkdir {nazev_slozky} -vytvoření složky
+rmdir {nazev_slozky} -smazání složky
+rm -r {nazev_slozky} -taky smaže složku
+ls -zobrazí obsah složky
+ls -l -vypíše obsah složky i s parametrama
+ls -a -vypíše obsah složky i se skrytýma souborama
+cp {zdrojova lokace} {cilova lokace} -kopíruje soubory
+cp -r {zdrojova lokace} {cilova lokace} -kopíruje složky
+rm {nazev_souboru} -odstranění souboru
+rm -r {nazev_slozky} -odstranění složky
+touch {nazev_souboru} -vytvoří soubor (primárně texťák)
+cat {nazev_souboru} -vypíše obsah souboru
+which bash -vypíše cestu k shell interpreteru
+passwd - změna hesla
+/home/{nazev_uzivatele} -adresář, kde jsou uživatelé
+chmod {cislo} {nazev_soboru} - osmičková soustava tři čísla za sebou první jednotka vlastník, druhá jednotka skupina, třetí jednotka ostatní
+chmod 777 soubor.txt - součet pro skupinu tři čísla - read(4) write(2) execute(1) 7 4 5 (vlastník vše, skupina čtení, ostatní číst a pustit)
+chmod nastavuje přístup k souborům
+ls > output.txt - přesměruje výstup příkazu ls do souboru output.txt (když output.txt existuje, celý ho přepíše)
+ls >> output.txt - přesměruje výstup příkazu ls do souboru output.txt (když output.txt existuje, přídá se na konec)
+zástuné znaky
+. aktuální adresář
+.. adresář o úroveň výše
+* libovolný počet znaků
+? libovolný jeden znak
+pwd -vypíše aktuální cestu k adresáři
+cd -změna adresáře
+spuštění shell souboru ./{nazev}.sh jeli v aktuální složce. Nejde spustit pouze z {nazev}.sh pro spuštění třeba executable permise
