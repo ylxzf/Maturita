@@ -2,8 +2,6 @@
 tags:
   - CJL
 ---
-# Hamlet
-
 ## Autor: William Shakespeare (1564-1616)
 - Narozen ve Stratfordu nad Avonou (Anglie)
 - Dramatik, básník, herec – jedna z nejvýznamnějších postav světové literatury

@@ -2,128 +2,125 @@
 tags:
   - CJL
 ---
-## Autor: Molière (Jean-Baptiste Poquelin, 1622–1673)
-- Francouzský dramatik, herec a režisér
-- Hlavní představitel klasicistní komedie
-- Pseudonym používal kvůli ochraně rodinné cti
-- Pronásledován církevními autoritami za kritiku společnosti
-
+## Autor: Molière (Jean-Baptiste Poquelin) (1622-1673)
+- Narozen v Paříži
+- Francouzský dramatik, herec a zakladatel moderní komedie
+- Dvorní dramatik Ludvíka XIV.
+- Zakladatel divadelního souboru "Illustre Théâtre"
+- Zemřel krátce po představení své hry "Zdravý nemocný"
 ---
-
 ## Literární druh
-- Drama
-
+- Drama (komedie)
 ---
-
 ## Literární žánr
-- Komedie (charakterní satira)
-
+- Charakterová komedie
+- Komedie mravů
+- Klasicistní drama
 ---
-
 ## Kompozice
-- 5 dějství podle klasicistních pravidel
-- Dodržuje jednotu času, místa a děje
-- Chronologický postup s rychlým spádem událostí
-- Výrazná pointa na konci
-
+- 5 dějství
+- Dodržuje klasicistní jednotu místa (Harpagonův dům), času (jeden den) a děje
+- Symetrická stavba s vrcholem ve 4. dějství (krádež pokladny)
+- Gradace konfliktu mezi Harpagonem a ostatními postavami
+- Závěrečné rozuzlení s pomocí deus ex machina (návrat Anselma)
 ---
-
 ## Téma
-- Ničivá moc peněz a chamtivosti
-- Rozpad rodinných vztahů kvůli materializmu
-- Pokrytectví a přetvářka ve společnosti
-
+- Kritika lakomství a posedlosti penězi
+- Střet generací a hodnot
+- Deformace charakteru pod vlivem patologické vášně
+- Pokrytectví společnosti
+- Peníze vs. láska a lidské vztahy
 ---
-
 ## Motiv
-- Kritika lichvy a hrabivosti
-- Konflikt mezi rozumem a vášní
-- Inspirace antickou komedií (Plautův Vychloubačný voják)
-
+- Patologické lakomství
+- Pokladnička (symbol Harpagonovy posedlosti)
+- Peníze jako náhrada lidských vztahů
+- Přetvářka a klam
+- Manželství z rozumu vs. z lásky
+- Generační konflikt
 ---
-
 ## Časoprostor
-- Místo: Paříž (Harpagonův dům)
-- Čas: 17. století (1670), děj trvá jeden den
-
+- Místo: Paříž, Harpagonův dům
+- Čas: 17. století, děj se odehrává během jednoho dne
+- Měšťanské prostředí
 ---
-
 ## Postavy
 ### Harpagon
-- Hlavní hrdina, bohatý lichvář
-- Chorobně lakomý, peníze jsou mu důležitější než rodina
-- Plánuje sňatky dětí pro vlastní zisk
+- Zámožný vdovec
+- Patologicky lakomý, posedlý penězi
+- Podezřívavý, nedůvěřivý, necitelný
+- Obětuje vše (i štěstí svých dětí) pro peníze
+- Typizovaná postava představující hlavní neřest (lakomství)
 
-### Kleantes
+### Kleant
 - Harpagonův syn
-- Zamilovaný do Mariany
-- Inteligentní, vynalézavý, ale bez prostředků
+- Miluje Marianu, se kterou se chce oženit jeho otec
+- Stojí v opozici proti otci
+- Reprezentuje mladou generaci a její hodnoty
 
 ### Eliška
 - Harpagonova dcera
 - Zamilovaná do Valéra
-- Citlivá, ale bezmocná proti otcově vůli
+- Otec ji chce provdat za bohatého starce Anselma
 
 ### Valér
-- Správce v Harpagonově domě
-- Skrývá svou pravou identitu
-- Podlézavý vůči Harpagonovi
+- Eliščin nápadník
+- Vydává se za Harpagonova správce, aby byl blízko Elišky
+- Pochází z urozené rodiny
 
+### Mariana
+- Chudá dívka, do které se zamiloval Harpagon i jeho syn Kleant
+
+### Anselm
+- Bohatý šlechtic, kterému Harpagon slíbil svou dceru
+- Později se ukáže, že je otcem Valéra a Mariany
 ---
-
 ## Obsah
-1. Harpagon plánuje výhodné sňatky pro děti
-2. Kleantes se zamiluje do Mariany
-3. Harpagonův sluha ukradne truhlu s penězi
-4. Objeví se Anselm, který odhalí Valérovo a Marianino původ
-5. Harpagon dostane zpět peníze výměnou za svolení ke svatbám
-6. Mladí se vezmou, Harpagon zůstává sám se svými penězi
-
+1. Představení Harpagonovy rodiny a jejich vztahů - děti chtějí sňatky z lásky, otec z vypočítavosti
+2. Harpagon oznamuje své plány: chce se oženit s Marianou a provdat Elišku za bohatého Anselma
+3. Intrikování dětí a sluhů proti Harpagonovi
+4. Krádež Harpagonovy pokladničky s penězi (ukradl ji Kleant na popud sluhy)
+5. Harpagonovo zoufalství nad ztrátou peněz
+6. Odhalení pravé identity Valéra a Mariany - jsou děti bohatého Anselma, který je léta hledal
+7. Rozuzlení - Anselm souhlasí se sňatky mladých párů, Harpagon získá zpět své peníze a zůstává sám
 ---
-
 ## Vyprávěcí způsoby
-- Er-forma (autor stojí nad dějem)
-- Dialogy a monology postav
-- Satirický komentář skrytý v replikách
-
+- Dialogy (hlavní forma)
+- Monology (zejména Harpagonovy)
+- Scénické poznámky
 ---
-
 ## Typy promluv
-- Přímá řeč (dominantní forma)
-- Monology (Harpagonovy výlevy o penězích)
-- Stručné repliky (rychlé dialogy)
-
+- Dramatické dialogy
+- Monology (odhalující charakter postav)
+- Stranou (promluvy určené publiku)
 ---
-
 ## Jazykové prostředky
+- Komické situace
 - Satira a ironie
-- Nadsázka (karikatura lidských vlastností)
-- Kontrastní charakterizace postav
-- Spisovný jazyk s prvky hovorovosti
-
+- Hyperbola (nadsázka) v zobrazení Harpagonova lakomství
+- Kontrast (láska vs. peníze, mládí vs. stáří)
+- Jazyková komika
+- Situační humor
 ---
-
 ## Kontext autorovy tvorby
-- Vrcholné období tvorby (1666–1670)
+- Napsáno 1668, premiéra 1668
+- Vrcholné období Molièrovy tvorby
 - Další významná díla:
-  - Tartuffe (pokrytectví)
-  - Misantrop (kritika salonní společnosti)
-  - Zdravý nemocný (parodie na lékařství)
-- Typické znaky: kritika společenských nešvarů
-
+ - Tartuffe
+ - Misantrop
+ - Don Juan
+ - Zdravý nemocný
+- Typické znaky: kritika společenských neřestí, typizované postavy, satira
 ---
-
 ## Literární kontext
-- Francouzský klasicismus (17. století)
+- Francouzský klasicismus 17. století (doba vlády Ludvíka XIV.)
 - Inspirace:
-  - Antické drama (Plautus)
-  - Commedia dell'arte
+ - Antická komedie (Plautus - Komedie o hrnci)
+ - Komedie dell'arte (italská improvizovaná komedie)
 - Současníci:
-  - Pierre Corneille
-  - Jean Racine
-- Vliv na české drama (Jirásek, Čapek)
-
+ - Jean Racine
+ - Pierre Corneille
+ - Jean de La Fontaine
 ---
-
 ## Shrnutí
-Klasicistní komedie odhalující destruktivní sílu chamtivosti. Molière mistrně spojuje satiru s psychologickou kresbou postav, kde peníze vítězí nad lidskými vztahy.
+Lakomec je mistrovskou charakterovou komedií, která zobrazuje, jak patologická vášeň (lakomství) může zdeformovat lidský charakter a zničit mezilidské vztahy. Molière vytvořil v postavě Harpagona archetyp lakomce, který je aktuální i po staletích. Hra kombinuje prvky situační a charakterové komedie, kritizuje společenské neřesti a staví proti sobě hodnoty různých generací. Díky univerzálnímu tématu, vtipným dialogům a brilantní stavbě patří Lakomec k nejhranějším světovým komediím.
