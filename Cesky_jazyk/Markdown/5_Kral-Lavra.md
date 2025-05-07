@@ -2,7 +2,7 @@
 tags:
   - CJL
 ---
-## Autor: Karel Havlíček Borovský (1821–1856)
+s## Autor: Karel Havlíček Borovský (1821–1856)
 - Narodil se v Borové (odtud přídomek "Borovský")
 - Novinář, satirik, politik – kritik rakouského absolutismu
 - Pronásledován cenzurou, zemřel ve vyhnanství v Brixenu
