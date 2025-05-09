@@ -4,19 +4,25 @@ tags:
 ---
 ## Konektory na MB
 ### Zvuková karta
-- $ Růžový
-	- Mikrofon
-- $ Zelený
-	- Sluchátka / Přední levý a pravý reproduktor
-- $ Modrý
-	- Line in
-	- Pro nahrávání audia
-- Šedý
-	- Boční levý a pravý reproduktor
-- Černý
-	- Zadní levý a pravý reproduktor
-- Žlutá
-	- Centrální reproduktor a subwoofer
+- 3.5mm jack
+	- $ Růžový
+		- Mikrofon
+	- $ Zelený
+		- Sluchátka / Přední levý a pravý reproduktor
+	- $ Modrý
+		- Line in
+		- Pro nahrávání audia
+	- Šedý
+		- Boční levý a pravý reproduktor
+	- Černý
+		- Zadní levý a pravý reproduktor
+	- Žlutá
+		- Centrální reproduktor a subwoofer
+	- ![[Pasted image 20250509175050.png]]
+- $ GamePort
+	- ![[Pasted image 20250509174849.png]]
+- $ MIDI
+	- ![[Pasted image 20250509174834.png]]
 
 ### PS/2
 - 6kolíkový konektor mini-DIN
@@ -115,7 +121,7 @@ tags:
 	- Šířka přenosu
 	- Maximální frekvence
 
-### ISA
+### #ISA
 - ISA - Industry Standard Architecture
 - Sběrnice pro rozšiřující karty, která byla vyvinuta firmou IBM
 - $ Adresová část sběrnice měla šířku až 24 bitů
@@ -123,7 +129,7 @@ tags:
 - Zastaralá sběrnice - v současné době se MB s ISA sloty nevyrábějí
 - ![[Pasted image 20250508232751.png]]
 
-### EISA
+### #EISA
 - EISA - Extended Industry Standard Architecture
 - $ Adresová část sběrnice měla šířku 32 bitů
 - $ Datová část sběrnice měla šířku 32 bitů
@@ -131,7 +137,7 @@ tags:
 - ![[Pasted image 20250508233014.png]]
 - ![[Pasted image 20250508233025.png]]
 
-### VESA Bus
+### #VESA Bus
 - VESA - Video Electronics Standards Association
 - $ Slot pro grafické karty
 - Standard lokální sběrnice - VESA Local BUS -> VL-Bus
@@ -139,7 +145,7 @@ tags:
 - $ Šířka 32bitů
 - ![[Pasted image 20250508233432.png]]
 
-### PCI
+### #PCI
 - PCI - Peripheral Component Interconnect
 - $ Paralelní přenos dat
 - $ Šířka 32 nebo 64 bitů
@@ -154,14 +160,14 @@ tags:
 - Šířka 64 bitů
 - ![[Pasted image 20250508234015.png]]
 
-### AGP
+### #AGP
 - AGP - Accelerated Graphics Port
 - Point-to-point spoj
 - Úprava sběrnice PCI
 - $ Odstranění arbitrážního obvodu
 - $ Šířka 32 bitů
 
-### PCIe
+### #PCIe
 - PCIe - PCI Express
 - $ Náhrada za starší standardy PCI, PCI-X, AGP
 - ! Komunikuje **sériově** pomocí paketů
@@ -170,7 +176,10 @@ tags:
 		- Síťové karty, rozšiřující konektory, zvukové karty, modemy, apod.
 	- PCIe x16
 		- Grafické karty
+- ![[Pasted image 20250509143643.png]]
 
 ---
+
+### HDD
 
 ![[3_Ulozna-zarizeni#HDD - Rozhraní]]

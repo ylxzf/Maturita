@@ -1,7 +1,7 @@
 ## Stavba a provoz PC
-1. [ ] [[1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup|Základní deska PC, CPU, RAM, BIOS, Setup]] 
-2. [ ] [[2_Rozhrani-a-konektory|Rozhraní a konektory na PC]]
-3. [ ] [[3_Ulozna-zarizeni|Úložná zařízení]]
+1. [x] [[1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup|Základní deska PC, CPU, RAM, BIOS, Setup]] 
+2. [x] [[2_Rozhrani-a-konektory|Rozhraní a konektory na PC]]
+3. [x] [[3_Ulozna-zarizeni|Úložná zařízení]]
 4. [ ] [[4_Rozsirujici-karty-PC|Rozšiřující karty PC]]
 5. [ ] [[5_Vstupni-zarizeni|Vstupní zařízení]]
 6. [ ] [[6_Vystupni-zarizeni-1-Zobrazovaci-jednotky|Výstupní zařízení 1 – zobrazovací jednotky]]

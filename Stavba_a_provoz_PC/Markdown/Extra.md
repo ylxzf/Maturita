@@ -38,6 +38,9 @@ tags:
 - DMA - Direct Memory Access
 - $ Režim, kdy má HW přímý přístup do operační paměti bez účasti procesoru
 
+## #Antialiasing
+![[Pasted image 20250509173241.png]]
+
 ---
 
 # #OPS 
