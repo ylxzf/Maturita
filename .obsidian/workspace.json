@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
+                "file": "Stavba_a_provoz_PC/Markdown/5_Vstupni-zarizeni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4_Rozsirujici-karty-PC"
+              "title": "5_Vstupni-zarizeni"
             }
           },
           {
@@ -56,31 +56,66 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e6a3cf197d00ced",
+            "id": "08b08f38eadefa78",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/4_Rozsirujici-karty-PC/Prezentace/13_Graficke_karty.pdf"
+                "file": "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky/Prezentace/18_Zobrazovaci_zarizeni.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "13_Graficke_karty"
+              "title": "18_Zobrazovaci_zarizeni"
             }
           },
           {
-            "id": "05b9aecfda7da72c",
+            "id": "fd44f2686d3ea082",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/4_Rozsirujici-karty-PC/Prezentace/15_Rozsirujici_karty.pdf"
+                "file": "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/7_Vystupni-zarizeni-2-Tiskarny/Prezentace/20_Tiskarny.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "15_Rozsirujici_karty"
+              "title": "20_Tiskarny"
+            }
+          },
+          {
+            "id": "8d65c4840ac7e090",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/8_Napajeni-diagnostika-a-testovani-PC/Prezentace/03_Skrine_zdroje.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "03_Skrine_zdroje"
+            }
+          },
+          {
+            "id": "75b425d73cd5c826",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/8_Napajeni-diagnostika-a-testovani-PC/Prezentace/04_Zalozni_zdroje.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "04_Zalozni_zdroje"
+            }
+          },
+          {
+            "id": "eee4060671632cd2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/8_Napajeni-diagnostika-a-testovani-PC/Prezentace/14_Benchmarky.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "14_Benchmarky"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,38 +279,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cacca645cdffaef6",
+  "active": "b60533546df2a988",
   "lastOpenFiles": [
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/4_Rozsirujici-karty-PC/Prezentace/15_Rozsirujici_karty.pdf",
-    "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
-    "Pasted image 20250509175610.png",
-    "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
-    "Stavba_a_provoz_PC/Markdown/Extra.md",
-    "Pasted image 20250509175050.png",
-    "Pasted image 20250509174956.png",
-    "Pasted image 20250509174849.png",
-    "Pasted image 20250509174834.png",
-    "Pasted image 20250509173518.png",
     "Main_Page.md",
-    "Pasted image 20250509173241.png",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/4_Rozsirujici-karty-PC/Prezentace/13_Graficke_karty.pdf",
-    "Programovaci_technologie/Files/PRM/MaturitniOkruhy/18_Teoreticke-vypocetni-modely/Prezentace/~$18_TeoretickeVypocetniModely_Vondra.pptx",
-    "Pasted image 20250509163444.png",
-    "Pasted image 20250509163235.png",
-    "Stavba_a_provoz_PC/Markdown/3_Ulozna-zarizeni.md",
-    "Pasted image 20250509162805.png",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky/Prezentace/18_Zobrazovaci_zarizeni.pdf",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/8_Napajeni-diagnostika-a-testovani-PC/Prezentace/14_Benchmarky.pdf",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/8_Napajeni-diagnostika-a-testovani-PC/Prezentace/04_Zalozni_zdroje.pdf",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/8_Napajeni-diagnostika-a-testovani-PC/Prezentace/03_Skrine_zdroje.pdf",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/7_Vystupni-zarizeni-2-Tiskarny/Prezentace/20_Tiskarny.pdf",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky/6. Vstupní zařízení - Zobrazovací jednotky.pdf",
+    "_md_Images/Pasted image 20250509143643.png",
+    "Stavba_a_provoz_PC/Markdown/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky.md",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/5_Vstupni-zarizeni/Prezentace/21_Scannery.pdf",
     "Stavba_a_provoz_PC/Markdown/5_Vstupni-zarizeni.md",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup/Prezentace/23_Procesory.pdf",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup/Prezentace/07_Pameti.pdf",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup/Prezentace/05_Deska_BIOS_Setup.pdf",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/2_Rozhrani-a-konektory/Prezentace/08_Integrovana_zarizeni.pdf",
+    "_md_Images/Pasted image 20250509202313.png",
+    "_md_Images/Pasted image 20250509202029.png",
+    "_md_Images/Pasted image 20250509201758.png",
+    "_md_Images/Pasted image 20250509201339.png",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/5_Vstupni-zarizeni/Prezentace/19_Dotykove_technologie.pdf",
+    "_md_Images/Pasted image 20250509194402.png",
+    "_md_Images/Pasted image 20250509194352.png",
+    "_md_Images/Pasted image 20250509194104.png",
+    "_md_Images/Pasted image 20250509193932.png",
+    "_md_Images/Pasted image 20250509193806.png",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/5_Vstupni-zarizeni/Prezentace/16_Vstupni_polohovaci.pdf",
+    "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
     "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
+    "Stavba_a_provoz_PC/Markdown/3_Ulozna-zarizeni.md",
+    "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
+    "Stavba_a_provoz_PC/Markdown/8_Napajeni-diagnostika-a-testovani-PC.md",
+    "Stavba_a_provoz_PC/Markdown/7_Vystupni-zarizeni-2-Tiskarny.md",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/5_Vstupni-zarizeni/05. HW - Vstupní zařízení.pdf",
+    "Stavba_a_provoz_PC/Markdown/Extra.md",
     "Cesky_jazyk/Markdown/16_Evzen-Onegin.md",
     "Cesky_jazyk/Markdown/18_Velky-Gatsby.md",
     "Cesky_jazyk/Markdown/17_Tyrolske-elegie.md",
     "Cesky_jazyk/Markdown/19_Na-zapadni-fronte-klid.md",
     "Cesky_jazyk/Markdown/20_Kytice.md",
-    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/POS.pdf",
     "Cesky_jazyk/Markdown/15_Spalovac-mrtvol.md",
     "Cesky_jazyk/Markdown/14_Bila_nemoc.md",
     "Cesky_jazyk/Markdown/13_Valka_s_mloky.md",
@@ -286,11 +326,6 @@
     "Cesky_jazyk/Markdown/8_Farma-zvirat.md",
     "Cesky_jazyk/Markdown/7_Maly-princ.md",
     "Cesky_jazyk/Markdown/6_Starec-a-more.md",
-    "Cesky_jazyk/Markdown/5_Kral-Lavra.md",
-    "Cesky_jazyk/Markdown/4_Lakomec.md",
-    "Cesky_jazyk/Markdown/3_Revizor.md",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/3_Ulozna-zarizeni/Prezentace/09_Ulozna_zarizeni.pdf",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/3_Ulozna-zarizeni/Prezentace/10_Deleni_disku.pdf",
     "Untitled.canvas"
   ]
 }

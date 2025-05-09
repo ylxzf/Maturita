@@ -21,7 +21,7 @@ tags:
 	- ![[Pasted image 20250509175050.png]]
 - $ GamePort
 	- ![[Pasted image 20250509174849.png]]
-- $ MIDI
+- $ #MIDI
 	- ![[Pasted image 20250509174834.png]]
 
 ### PS/2
