@@ -8,17 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e6a3cf197d00ced",
+            "id": "b60533546df2a988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cesky_jazyk/Markdown/4_Lakomec.md",
+                "file": "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4_Lakomec"
+              "title": "4_Rozsirujici-karty-PC"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ddf7351bb6a788e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e6a3cf197d00ced",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/4_Rozsirujici-karty-PC/Prezentace/13_Graficke_karty.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "13_Graficke_karty"
+            }
+          },
+          {
+            "id": "05b9aecfda7da72c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/4_Rozsirujici-karty-PC/Prezentace/15_Rozsirujici_karty.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "15_Rozsirujici_karty"
             }
           }
         ]
@@ -53,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#HW",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main_Page.md",
+                "file": "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Main_Page"
+              "title": "Backlinks for 4_Rozsirujici-karty-PC"
             }
           },
           {
@@ -113,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main_Page.md",
+                "file": "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Main_Page"
+              "title": "Outgoing links from 4_Rozsirujici-karty-PC"
             }
           },
           {
@@ -166,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,53 +216,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e6a3cf197d00ced",
+  "active": "b60533546df2a988",
   "lastOpenFiles": [
-    "Cesky_jazyk/Markdown/3_Revizor.md",
-    "Cesky_jazyk/Markdown/2_Hamlet.md",
-    "Cesky_jazyk/Markdown/1_Romeo-a-Julie.md",
-    "Cesky_jazyk/Markdown/4_Lakomec.md",
-    "Cesky_jazyk/Markdown/5_Kral-Lavra.md",
-    "Cesky_jazyk/Markdown/6_Starec-a-more.md",
-    "Cesky_jazyk/Markdown/7_Maly-princ.md",
-    "Cesky_jazyk/Markdown/8_Farma-zvirat.md",
-    "Cesky_jazyk/Markdown/9_O-mysich-a-lidech.md",
-    "Cesky_jazyk/Markdown/10_Petr-a-Lucie.md",
-    "Cesky_jazyk/Markdown/11_Promena.md",
-    "Cesky_jazyk/Markdown/12_Krysar.md",
-    "Cesky_jazyk/Markdown/13_Valka_s_mloky.md",
-    "Cesky_jazyk/Markdown/14_Bila_nemoc.md",
-    "Cesky_jazyk/Markdown/15_Spalovac-mrtvol.md",
-    "Cesky_jazyk/Markdown/16_Evzen-Onegin.md",
-    "Cesky_jazyk/Markdown/17_Tyrolske-elegie.md",
-    "Cesky_jazyk/Markdown/18_Velky-Gatsby.md",
-    "Cesky_jazyk/Markdown/19_Na-zapadni-fronte-klid.md",
-    "Cesky_jazyk/Markdown/20_Kytice.md",
-    "Anglicky_jazyk/Markdown/4_United-Kingdom.md",
-    "Anglicky_jazyk/Markdown/5_United-States.md",
-    "Anglicky_jazyk/Markdown/3_Jihlava-Vysocina-Region.md",
-    "Anglicky_jazyk/Markdown/2_Prague.md",
-    "Anglicky_jazyk/Markdown/1_Czech-Republic.md",
-    "Programovaci_technologie/Markdown/1_Kodovani-dat.md",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/Karel Havlíček Borovský - Král Lávra/~$ Král Lávra.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/Nikolaj Vasiljevič Gogol - Revizor/~$ Revizor.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/~$ Romeo a Julie - Renesance a Humanismus.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/16. - Romeo, Julie a tma - ČSR 45-48 Drda, Otčenášek.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/~$. - Romeo, Julie a tma - ČSR 45-48 Drda, Otčenášek.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/Franz Kafka - Proměna/Franz Kafka - Proměna.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/~$anz Kafka - Proměna.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/~$ W. Shakespeare - Romeo a Julie.docx",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/William Shakespeare - Romeo a Julie/~$.-Romeo-a-Julie-William-Shakespeare.doc",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/George Orwell - Farma zvířat/~$chal Kadlec - Příprava k ústní maturitě - tabulka na referát.docx",
-    "Untitled.canvas",
-    "Cesky_jazyk/Files/Ondrej-Vondra/Knihy/Erich Maria Remarque – Na Západní Frontě klid/na západní frontě.jpg",
-    "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey.jpg",
-    "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 3.jpg",
-    "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 2.jpg",
-    "Cesky_jazyk/Files/Rozbory/Český jazyk - rozbory děl k maturitě/Erich Maria Remarque – Na Západní Frontě klid/na západní frontě.jpg",
-    "Cesky_jazyk/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey.jpg",
-    "Cesky_jazyk/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 3.jpg",
-    "Cesky_jazyk/Rozbory/Český jazyk - rozbory děl k maturitě/Oscar Wilde - Obraz Doriana Graye/dorian grey 2.jpg",
-    "Cesky_jazyk/Rozbory/Český jazyk - rozbory děl k maturitě/Erich Maria Remarque – Na Západní Frontě klid/na západní frontě.jpg"
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/4_Rozsirujici-karty-PC/Prezentace/13_Graficke_karty.pdf",
+    "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/4_Rozsirujici-karty-PC/Prezentace/15_Rozsirujici_karty.pdf",
+    "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
+    "Stavba_a_provoz_PC/Markdown/3_Ulozna-zarizeni.md",
+    "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
+    "Stavba_a_provoz_PC/Markdown/Extra.md",
+    "Stavba_a_provoz_PC/Markdown/8_Napajeni-diagnostika-a-testovani-PC.md",
+    "Stavba_a_provoz_PC/Markdown/7_Vystupni-zarizeni-2-Tiskarny.md",
+    "Stavba_a_provoz_PC/Markdown/5_Vstupni-zarizeni.md",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/4_Rozsirujici-karty-PC/04. HW - Rozšiřující karty PC.pdf",
+    "_md_Images/Pasted image 20250508232751.png",
+    "_md_Images/Pasted image 20250508230353.png",
+    "_md_Images/Pasted image 20250508225118.png",
+    "_md_Images/Pasted image 20250508224853.png",
+    "_md_Images/Pasted image 20250508224438.png",
+    "_md_Images/Pasted image 20250508201835.png",
+    "_md_Images/Pasted image 20250508193451.png",
+    "_md_Images/Pasted image 20250508192220.png",
+    "_md_Images/Pasted image 20250509001307.png",
+    "_md_Images/Pasted image 20250509004803.png",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/3_Ulozna-zarizeni/Prezentace/12_Opticka_media.pdf",
+    "Stavba_a_provoz_PC/Markdown/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky.md",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/3_Ulozna-zarizeni/Prezentace/11_Raid.pdf",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/3_Ulozna-zarizeni/Prezentace/10_Deleni_disku.pdf",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/3_Ulozna-zarizeni/Prezentace/09_Ulozna_zarizeni.pdf",
+    "_md_Images",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/3_Ulozna-zarizeni/03. HW - Úložná zařízení.pdf",
+    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/2_Rozhrani-a-konektory/Prezentace/06_Sbernice.pdf",
+    "Stavba_a_provoz_PC/Markdown/24_Smerovani.md",
+    "Stavba_a_provoz_PC/Markdown/25_Bezpecnost-v-pocitacovych-sitich.md",
+    "Stavba_a_provoz_PC/Markdown/23_VLAN.md",
+    "Stavba_a_provoz_PC/Markdown/22_Adresace-v-sitich.md",
+    "Stavba_a_provoz_PC/Markdown/21_Sitove-prvky.md",
+    "Stavba_a_provoz_PC/Markdown/20_Referencni-model-ISO-OSI-a-sitovy-model-TCP-IP.md",
+    "Stavba_a_provoz_PC/Markdown/19_Pristupove-metody-k-mediu.md",
+    "Stavba_a_provoz_PC/Markdown/18_Pocitacova-sit.md",
+    "Stavba_a_provoz_PC/Markdown/17_Souborove-systemy-opravneni-v-ruznych-OS.md",
+    "Stavba_a_provoz_PC/Markdown/16_Bezpecnost-v-OS.md",
+    "Stavba_a_provoz_PC/Markdown/15_Windows-server-2008-2012-DNS-Princip-AD.md",
+    "Stavba_a_provoz_PC/Markdown/14_Virtualizace-a-virtualni-PC.md",
+    "Stavba_a_provoz_PC/Markdown/13_Zakladni-prace-s-OS-Linux-terminal.md",
+    "Stavba_a_provoz_PC/Markdown/12_Zalohovani-struktur-na-pevem-disku.md",
+    "Stavba_a_provoz_PC/Markdown/11_Prace-s-opravnenimi-a-s-registry-OS-Windows-prikazovy-radek.md",
+    "Stavba_a_provoz_PC/Markdown/10_Zavedeni-OS-Vice-OS-na-jednom-pevnem-disku.md",
+    "Untitled.canvas"
   ]
 }
