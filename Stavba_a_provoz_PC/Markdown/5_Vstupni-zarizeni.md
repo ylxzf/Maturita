@@ -55,6 +55,8 @@ tags:
 
 #### Bezdrátové
 
+---
+
 ## Počítačová myš
 - Pohyb myši přesně kopíruje kurzor na obrazovce
 
@@ -83,21 +85,28 @@ tags:
 
 #### Bezdrátová
 
+---
+
 ## Touchpad
 - $ Náhrada za myš u notebooků
 - Jeho účelem je pohybovat kurzorem po obrazovce podle pohybů uživatelova prstu
 - $ Touchpady většinou pracují na principu snímání elektrické kapacity prstu nebo kapacity mezi senzory
 
+---
 ## Trackpoint
 - Uprostřed klávesnice se nachází malá gumová páčka sloužící k pohybu kurzoru
 - ![[Pasted image 20250509191503.png]]
 
+---
 ## Trackball
 - $ Jde o kuličku umístěnou v podložce, jíž se dá pohybem prstů pohybovat
 - ![[Pasted image 20250509191557.png]]
 
+---
+
 ## Herní zařízení
 - Specializovaná vstupní zařízení určená pro jednodušší ovládání, zejména u her
+
 ### Joystick
 - Joystick je zařízení používané zejména k ovládání leteckých simulátorů
 - Mimo počítačové hry nalézají joysticky v praxi uplatnění v ovládání průmyslových strojů
@@ -118,6 +127,8 @@ tags:
 - Vibrace
 ### Wii
 - Dokáže přesně reagovat na pohyb ruky
+
+---
 
 ## Dotykové technologie
 - ! Dotykové displeje jsou vstupní i výstupní zařízení
@@ -149,6 +160,8 @@ tags:
 ### Multi-touch
 - Schopnost vnímat více dotyků najednou v jednom okamžiku
 - Mnoho kombinací pro dosažení určitého pohybu nebo provedení operace
+
+---
 
 ## Scannery
 - Skener je zařízení, které slouží pro přenos dat nejčastěji z papíru, filmu či diapozitivu do počítače

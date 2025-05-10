@@ -41,9 +41,31 @@ tags:
 ## #Antialiasing
 ![[Pasted image 20250509173241.png]]
 
+## #Bitová_šířka
+- Označuje počet bitů, které procesor nebo počítačová architektura může zpracovávat najednou
+- Určuje velikost dat, se kterými procesor pracuje, a může ovlivnit výkon a možnosti systému
+
+## #Architektura
+- x86
+	- RAM
+		- Dokáže maximálně adresovat $2^{32}$ adres
+		- Max $2^{32}$B = 4GB
+- x64
+	- 64bit OS dokážou spustit 64bitové i 32bitové aplikace
+	- CPU x64
+		- Moderní procesory
+	- RAM
+		- Dokáže maximálně adresovat $2^{64}$ adres
+		- Max $2^{64}$B = 16EB (exabytes)
+
 ---
 
 # #OPS 
+
+## #Operační_paměť
+- RAM (Random Access Memory) - RWM (Read Write Memory)
+- Volatilní paměť
+- Uchovává data a instrukce pro běžící programy
 
 ---
 

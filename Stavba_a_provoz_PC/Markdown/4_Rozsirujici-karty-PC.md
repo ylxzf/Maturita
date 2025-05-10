@@ -149,6 +149,8 @@ tags:
 ### Konektory na ZK
 ![[2_Rozhrani-a-konektory#Zvuková karta]]
 
+---
+
 ## #Síťová_karta
 - #NIC - Network Interface Controller
 - $ Slouží ke vzájemné komunikaci počítačů v počítačové síti

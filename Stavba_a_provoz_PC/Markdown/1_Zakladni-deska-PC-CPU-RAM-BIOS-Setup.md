@@ -152,7 +152,7 @@ tags:
 - 4 bitový mikroprocesor
 - $ První obchodně úspěšný mikroprocesor
 - Harvardská architektura
-### Intel 8086
+### #Intel_8086
 - 16 bitový procesor
 - 2 jednotky
 	- Sběrnicová jednotka - BUI
