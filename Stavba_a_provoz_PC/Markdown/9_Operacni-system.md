@@ -2,7 +2,7 @@
 tags:
   - OPS
 ---
-## Co je to OS?
+## #Definice_OS
 - $ Základní programové vybavení počítače
 - $ Zavádí se do #Operační_paměť po startu počítače
 - $ Zprostředkovává komunikaci s uživatelem a technickým vybavením pomocí uživatelského rozhraní
@@ -17,9 +17,9 @@ tags:
 
 ## Vlastnosti
 - $ Zpracování procesu
-	- @ Monotask - Jednoúlohové
+	- @ #Monotask - Jednoúlohové
 		- např. MS-DOS
-	- @ Multitask - Víceúlohové - Schopnost operačního systému provádět několik procesů současně
+	- @ #Multitask - Víceúlohové - Schopnost operačního systému provádět několik procesů současně
 		- @ Preemptivní
 			- Pád jednoho programu nemůže ovlivnit chod jiných
 		- @ Kooperativní
@@ -40,11 +40,11 @@ tags:
 	- @ TUI - Text User Interface
 	- Shell
 - $ Uživatelé
-	- @ Monouser - Jednouživatelský
+	- @ #Monouser - Jednouživatelský
 		- DOS, Win95
-	- @ Multiuser - Víceuživatelský
+	- @ #Multiuser - Víceuživatelský
 
-## Služby OS
+## #Služby_OS
 - $ Aplikace nebo proces běžící na pozadí operačního systému, který zajišťuje specifické funkce a čeká na svou aktivaci či použití
 - Běží nezávisle na uživateli
 - Stavy:
