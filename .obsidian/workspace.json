@@ -6,6 +6,7 @@
       {
         "id": "d1c767f5909e67c8",
         "type": "tabs",
+        "dimension": 45.35891089108911,
         "children": [
           {
             "id": "33bf3a4d8ab94dc7",
@@ -13,21 +14,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stavba_a_provoz_PC/Markdown/14_Virtualizace-a-virtualni-PC.md",
+                "file": "Programovaci_technologie/Markdown/1_Kodovani-dat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14_Virtualizace-a-virtualni-PC"
+              "title": "1_Kodovani-dat"
             }
           },
           {
-            "id": "7812c2f771a46771",
+            "id": "0ca119eaa6b9e94c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stavba_a_provoz_PC/Markdown/Extra.md",
+                "file": "Programovaci_technologie/Markdown/Extra.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,11 +50,13 @@
               "title": "Main_Page"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "862ad2a621128656",
         "type": "tabs",
+        "dimension": 54.64108910891089,
         "children": [
           {
             "id": "fcef93d5d2c5866f",
@@ -112,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AD",
+                "query": "tag:#Souborový_systém",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,53 +247,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "33bf3a4d8ab94dc7",
+  "active": "f627f24851ee2157",
   "lastOpenFiles": [
-    "Stavba_a_provoz_PC/Markdown/15_Windows-server-2008-2012-DNS-Princip-AD.md",
-    "Stavba_a_provoz_PC/Markdown/16_Bezpecnost-v-OS.md",
-    "Stavba_a_provoz_PC/Markdown/17_Souborove-systemy-opravneni-v-ruznych-OS.md",
-    "_md_Images/Pasted image 20250511061315.png",
-    "Stavba_a_provoz_PC/Markdown/3_Ulozna-zarizeni.md",
-    "Stavba_a_provoz_PC/Files/OpS/MaturitniOkruhy/OPS.pdf",
-    "_md_Images/Pasted image 20250511061325.png",
-    "Stavba_a_provoz_PC/Markdown/14_Virtualizace-a-virtualni-PC.md",
-    "Stavba_a_provoz_PC/Markdown/13_Zakladni-prace-s-OS-Linux-terminal.md",
-    "Stavba_a_provoz_PC/Markdown/11_Prace-s-opravnenimi-a-s-registry-OS-Windows-prikazovy-radek.md",
-    "Stavba_a_provoz_PC/Markdown/10_Zavedeni-OS-Vice-OS-na-jednom-pevnem-disku.md",
-    "Stavba_a_provoz_PC/Markdown/9_Operacni-system.md",
-    "Stavba_a_provoz_PC/Markdown/12_Zalohovani-struktur-na-pevem-disku.md",
-    "Main_Page.md",
-    "_md_Images/Pasted image 20250510230251.png",
-    "Stavba_a_provoz_PC/Markdown/Extra.md",
-    "Stavba_a_provoz_PC/Markdown/18_Pocitacova-sit.md",
-    "Pasted image 20250510230231.png",
-    "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
-    "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
-    "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
-    "Stavba_a_provoz_PC/Markdown/5_Vstupni-zarizeni.md",
-    "Stavba_a_provoz_PC/Markdown/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky.md",
-    "Stavba_a_provoz_PC/Markdown/7_Vystupni-zarizeni-2-Tiskarny.md",
-    "Stavba_a_provoz_PC/Markdown/8_Napajeni-diagnostika-a-testovani-PC.md",
     "Programovaci_technologie/Markdown/Extra.md",
+    "Programovaci_technologie/Markdown/1_Kodovani-dat.md",
+    "Main_Page.md",
+    "Programovaci_technologie/Markdown/25_Prvociselnost-a-jeji-testovani.md",
+    "Programovaci_technologie/Markdown/24_Nahodna-cisla-a-Permutace.md",
+    "Programovaci_technologie/Markdown/23_Kolekce.md",
+    "Programovaci_technologie/Markdown/22_Algoritmus-Pristupy-k-vyvoji-SW-Testovani.md",
+    "Programovaci_technologie/Markdown/21_Numericka-matematika.md",
+    "Programovaci_technologie/Markdown/20_Teorie-grafu.md",
+    "Programovaci_technologie/Markdown/19_Algoritmy-pro-prevod-Morseova-abeceda-Sifrovani.md",
+    "Programovaci_technologie/Markdown/18_Teoreticke-vypocetni-modely.md",
+    "Programovaci_technologie/Markdown/17_Chyby-v-programovani-a-mechanismus-vyjimek.md",
+    "Programovaci_technologie/Markdown/16_ADT-Zasobnik-Fronta-Binarni-strom.md",
+    "Programovaci_technologie/Markdown/15_Datove-typy-Retezce-Enum.md",
+    "Programovaci_technologie/Markdown/14_Dedicnost-Rozhrani-Polymorfismus.md",
+    "Programovaci_technologie/Markdown/13_Objekty-Atributy-Metody.md",
+    "Programovaci_technologie/Markdown/12_Dynamicky-web.md",
+    "Programovaci_technologie/Markdown/11_SQL.md",
+    "Programovaci_technologie/Markdown/10_Radici-algoritmy.md",
+    "Programovaci_technologie/Markdown/9_Datova-struktura-pole-a-vyhledavani-v-poli.md",
+    "Programovaci_technologie/Markdown/8_Soubory-v-programovani.md",
+    "Programovaci_technologie/Markdown/6_Programovani-v-MS-Office-kod-VBA.md",
+    "Programovaci_technologie/Markdown/7_HTML-CSS.md",
     "Programovaci_technologie/Markdown/5_MS-Access-I.md",
-    "Stavba_a_provoz_PC/Files/OpS/MaturitniOkruhy/9_Operacni-system/OperaC_Sys_9.pdf",
-    "Stavba_a_provoz_PC/Files/OpS/MaturitniOkruhy/OPS_ALL.pdf",
+    "Programovaci_technologie/Markdown/4_Teorie-DB.md",
+    "Programovaci_technologie/Markdown/3_MS-Excel-II.md",
+    "Cesky_jazyk/Files/Important/CJL_Teorie.pdf",
+    "Cesky_jazyk/Files/Important/Literární Pojmy.pdf",
+    "Cesky_jazyk/Files/Important/STRUKTURA ÚSTNÍ ZKOUŠKY - 4. ROČNÍK.docx",
+    "Cesky_jazyk/Files/Important/Slovní zásoba.odt",
+    "Cesky_jazyk/Files/Important",
+    "Cesky_jazyk/Files/New folder",
+    "Cesky_jazyk/Files/STRUKTURA ÚSTNÍ ZKOUŠKY - 4. ROČNÍK.docx",
+    "Cesky_jazyk/Files/Slovní zásoba.odt",
+    "Stavba_a_provoz_PC/Files/HW/Important/SpPC – hardware.pdf",
+    "Stavba_a_provoz_PC/Files/HW/Important/HW_okruhy.pdf",
+    "_md_Images/Pasted image 20250511061315.png",
+    "_md_Images/Pasted image 20250511061325.png",
+    "_md_Images/Pasted image 20250510230251.png",
+    "Pasted image 20250510230231.png",
     "_md_Images/Pasted image 20250509204418.png",
-    "Stavba_a_provoz_PC/Files/OpS/MaturitniOkruhy/9_Operacni-system/09. OPS - Operační systém.pdf",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/8_Napajeni-diagnostika-a-testovani-PC/Prezentace/14_Benchmarky.pdf",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/8_Napajeni-diagnostika-a-testovani-PC/Prezentace/04_Zalozni_zdroje.pdf",
     "_md_Images/Pasted image 20250510012331.png",
     "_md_Images/Pasted image 20250510012154.png",
     "_md_Images/Pasted image 20250510012114.png",
     "_md_Images/Pasted image 20250510010944.png",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/8_Napajeni-diagnostika-a-testovani-PC/Prezentace/03_Skrine_zdroje.pdf",
     "_md_Images/Pasted image 20250510010907.png",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/7_Vystupni-zarizeni-2-Tiskarny/Prezentace/20_Tiskarny.pdf",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky/Prezentace/18_Zobrazovaci_zarizeni.pdf",
-    "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky/6. Vstupní zařízení - Zobrazovací jednotky.pdf",
-    "Cesky_jazyk/Markdown/16_Evzen-Onegin.md",
-    "Cesky_jazyk/Markdown/18_Velky-Gatsby.md",
-    "Cesky_jazyk/Markdown/17_Tyrolske-elegie.md",
     "Untitled.canvas"
   ]
 }

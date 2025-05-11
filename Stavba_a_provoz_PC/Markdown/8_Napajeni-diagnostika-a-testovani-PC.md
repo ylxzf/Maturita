@@ -40,7 +40,7 @@ tags:
 
 ---
 
-## Záložní zdroje
+## Záložní zdroje - #UPS
 - UPS - Uninterruptible Power Supply
 - $ Základní součástí je AC/DC měnič, DC/AC měnič a baterie
 	- @ AC/DC měnič slouží k dobíjení baterie a napájení elektroniky UPS

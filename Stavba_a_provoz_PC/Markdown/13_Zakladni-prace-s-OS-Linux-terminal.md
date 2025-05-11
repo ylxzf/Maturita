@@ -30,7 +30,7 @@ tags:
 	- @ Vše je plně customizovatelné
 - Xfce
 
-## Oprávnění
+## Linux oprávnění
 - $ Nastavujou se oprávnění pro 3 skupiny (UGO)
 	- @ UGO - User (vlastník) Group (skupina) Other (ostatní)
 - $ Příkaz `chmod` změní oprávnění souboru nebo adresáře v #Terminal 

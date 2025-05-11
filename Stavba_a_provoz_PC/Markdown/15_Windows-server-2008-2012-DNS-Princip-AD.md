@@ -112,7 +112,5 @@ tags:
 ---
 
 ## Pojmy
-- Migrace
-	- 
 - DHCP - Dynamic Host Configuration Protocol
 	- Automatické přiřazování IP adres počítačům

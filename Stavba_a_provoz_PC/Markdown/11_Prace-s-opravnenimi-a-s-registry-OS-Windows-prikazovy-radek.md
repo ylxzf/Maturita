@@ -41,8 +41,8 @@ tags:
 	- Windows Desktop Environment
 - TUI
 	- MS-DOS
-## Atributy
-- $ R - Read
+## Windows atributy - #RASH
+- $ R - Read-only
 - $ A - Archive
 - $ S - System
 - $ H - Hidden
