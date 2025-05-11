@@ -74,6 +74,11 @@ tags:
 ### #Partition
 - $ Je to oddíl disku, který je nezávislý na zbytku disku
 
+### #Autentizace
+- Ověření identity uživatele (např. přihlášení pomocí uživatelského jména a hesla).
+
+### #Autorizace
+- Určení, jaká práva nebo přístup k systémům má uživatel (např. co může upravovat nebo zobrazit).
 ---
 
 # #POS 

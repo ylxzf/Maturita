@@ -383,7 +383,7 @@ tags:
 
 ---
 
-## RAID
+## #RAID
 - RAID - Redundant Array of Inexpensive / Independent Disks (vícenásobné pole levných / nezávislých disků)
 - Sestavování disků do diskových polí
 - $ Metoda zabezpečení dat při selhání pevného disku

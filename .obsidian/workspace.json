@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stavba_a_provoz_PC/Markdown/15_Windows-server-2008-2012-DNS-Princip-AD.md",
+                "file": "Stavba_a_provoz_PC/Markdown/14_Virtualizace-a-virtualni-PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15_Windows-server-2008-2012-DNS-Princip-AD"
+              "title": "14_Virtualizace-a-virtualni-PC"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Main_Page"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "862ad2a621128656",
@@ -113,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Plná_virtualizace",
+                "query": "tag:#AD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,29 +244,33 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f627f24851ee2157",
+  "active": "33bf3a4d8ab94dc7",
   "lastOpenFiles": [
-    "_md_Images/Pasted image 20250510230251.png",
-    "Pasted image 20250510230231.png",
-    "Main_Page.md",
     "Stavba_a_provoz_PC/Markdown/15_Windows-server-2008-2012-DNS-Princip-AD.md",
-    "Stavba_a_provoz_PC/Markdown/9_Operacni-system.md",
-    "Stavba_a_provoz_PC/Markdown/14_Virtualizace-a-virtualni-PC.md",
-    "Stavba_a_provoz_PC/Markdown/Extra.md",
-    "Stavba_a_provoz_PC/Markdown/10_Zavedeni-OS-Vice-OS-na-jednom-pevnem-disku.md",
     "Stavba_a_provoz_PC/Markdown/16_Bezpecnost-v-OS.md",
-    "Stavba_a_provoz_PC/Markdown/11_Prace-s-opravnenimi-a-s-registry-OS-Windows-prikazovy-radek.md",
-    "Stavba_a_provoz_PC/Markdown/12_Zalohovani-struktur-na-pevem-disku.md",
+    "Stavba_a_provoz_PC/Markdown/17_Souborove-systemy-opravneni-v-ruznych-OS.md",
+    "_md_Images/Pasted image 20250511061315.png",
+    "Stavba_a_provoz_PC/Markdown/3_Ulozna-zarizeni.md",
+    "Stavba_a_provoz_PC/Files/OpS/MaturitniOkruhy/OPS.pdf",
+    "_md_Images/Pasted image 20250511061325.png",
+    "Stavba_a_provoz_PC/Markdown/14_Virtualizace-a-virtualni-PC.md",
     "Stavba_a_provoz_PC/Markdown/13_Zakladni-prace-s-OS-Linux-terminal.md",
+    "Stavba_a_provoz_PC/Markdown/11_Prace-s-opravnenimi-a-s-registry-OS-Windows-prikazovy-radek.md",
+    "Stavba_a_provoz_PC/Markdown/10_Zavedeni-OS-Vice-OS-na-jednom-pevnem-disku.md",
+    "Stavba_a_provoz_PC/Markdown/9_Operacni-system.md",
+    "Stavba_a_provoz_PC/Markdown/12_Zalohovani-struktur-na-pevem-disku.md",
+    "Main_Page.md",
+    "_md_Images/Pasted image 20250510230251.png",
+    "Stavba_a_provoz_PC/Markdown/Extra.md",
+    "Stavba_a_provoz_PC/Markdown/18_Pocitacova-sit.md",
+    "Pasted image 20250510230231.png",
     "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
     "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
-    "Stavba_a_provoz_PC/Markdown/3_Ulozna-zarizeni.md",
     "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
     "Stavba_a_provoz_PC/Markdown/5_Vstupni-zarizeni.md",
     "Stavba_a_provoz_PC/Markdown/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky.md",
     "Stavba_a_provoz_PC/Markdown/7_Vystupni-zarizeni-2-Tiskarny.md",
     "Stavba_a_provoz_PC/Markdown/8_Napajeni-diagnostika-a-testovani-PC.md",
-    "Stavba_a_provoz_PC/Files/OpS/MaturitniOkruhy/OPS.pdf",
     "Programovaci_technologie/Markdown/Extra.md",
     "Programovaci_technologie/Markdown/5_MS-Access-I.md",
     "Stavba_a_provoz_PC/Files/OpS/MaturitniOkruhy/9_Operacni-system/OperaC_Sys_9.pdf",
@@ -282,16 +285,12 @@
     "_md_Images/Pasted image 20250510010944.png",
     "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/8_Napajeni-diagnostika-a-testovani-PC/Prezentace/03_Skrine_zdroje.pdf",
     "_md_Images/Pasted image 20250510010907.png",
-    "_md_Images/Pasted image 20250510010837.png",
-    "_md_Images/Pasted image 20250510010815.png",
     "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/7_Vystupni-zarizeni-2-Tiskarny/Prezentace/20_Tiskarny.pdf",
     "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky/Prezentace/18_Zobrazovaci_zarizeni.pdf",
     "Stavba_a_provoz_PC/Files/HW/MaturitniOkruhy/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky/6. Vstupní zařízení - Zobrazovací jednotky.pdf",
     "Cesky_jazyk/Markdown/16_Evzen-Onegin.md",
     "Cesky_jazyk/Markdown/18_Velky-Gatsby.md",
     "Cesky_jazyk/Markdown/17_Tyrolske-elegie.md",
-    "Cesky_jazyk/Markdown/19_Na-zapadni-fronte-klid.md",
-    "Cesky_jazyk/Markdown/20_Kytice.md",
     "Untitled.canvas"
   ]
 }

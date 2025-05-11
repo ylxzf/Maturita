@@ -51,6 +51,9 @@ tags:
 - $ Kompletně odizoluje host OS od ostatních VM
 - $ Simuluje všechny komponenty a jejich činnost HW
 - $ Nejlepší izolace
+
+---
+
 ## SW pro virtualizaci
 - #Emulace
 	- Wine - Emulace windows aplikací v Linuxu
@@ -65,11 +68,15 @@ tags:
 	- Virtual Box
 	- Proxmox
 
+---
+
 ## Přístup k VM
 - $ Virtualizační aplikace
 - $ Web
 	- Proxmox
 - $ Lokálně/Vzdáleně
+
+---
 
 ## Kdy se používá jaká virtualizace?
 - #Emulace
