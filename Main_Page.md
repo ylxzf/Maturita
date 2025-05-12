@@ -26,8 +26,8 @@
 25. [ ] [[25_Bezpecnost-v-pocitacovych-sitich|Bezpečnost v počítačových sítích]]
 ## Programovací technologie
 
-1. [ ] [[1_Kodovani-dat|Kódování dat]]
-2. [ ] [[2_MS-Excel-I|MS Excel I]]
+1. [x] [[1_Kodovani-dat|Kódování dat]]
+2. [x] [[2_MS-Excel-I|MS Excel I]]
 3. [ ] [[3_MS-Excel-II|MS Excel II]]
 4. [ ] [[4_Teorie-DB|Teorie DB]]
 5. [ ] [[5_MS-Access-I|MS Access I]]

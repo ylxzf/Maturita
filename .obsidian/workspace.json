@@ -59,18 +59,6 @@
         "dimension": 54.64108910891089,
         "children": [
           {
-            "id": "fcef93d5d2c5866f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Stavba_a_provoz_PC/Files/OpS/MaturitniOkruhy/OPS_ALL.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "OPS_ALL"
-            }
-          },
-          {
             "id": "f44b7c62c8099e06",
             "type": "leaf",
             "state": {
@@ -80,6 +68,30 @@
               },
               "icon": "lucide-file-text",
               "title": "OPS"
+            }
+          },
+          {
+            "id": "35aa5c5d24a50383",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Programovaci_technologie/Files/APV/MaturitniOkruhy/APV.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "APV"
+            }
+          },
+          {
+            "id": "4ceb71335d60f09a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Datové formáty.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Datové formáty"
             }
           }
         ],
@@ -115,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Souborový_systém",
+                "query": "tag:#Atributy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -249,9 +261,24 @@
   },
   "active": "f627f24851ee2157",
   "lastOpenFiles": [
-    "Programovaci_technologie/Markdown/Extra.md",
     "Programovaci_technologie/Markdown/1_Kodovani-dat.md",
+    "Programovaci_technologie/Markdown/3_MS-Excel-II.md",
+    "Programovaci_technologie/Markdown/2_MS-Excel-I.md",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/APV.pdf",
     "Main_Page.md",
+    "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
+    "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
+    "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
+    "Programovaci_technologie/Markdown/Extra.md",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Datové formáty.pdf",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/02. APV – Rastrová grafika.pdf",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/01. APV – Datové formáty.pdf",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Zvuk.pdf",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Video.pdf",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Vektorová grafika.pdf",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Rastrová grafika.pdf",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/05. APV – Zvuk.pdf",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/04. APV – Video.pdf",
     "Programovaci_technologie/Markdown/25_Prvociselnost-a-jeji-testovani.md",
     "Programovaci_technologie/Markdown/24_Nahodna-cisla-a-Permutace.md",
     "Programovaci_technologie/Markdown/23_Kolekce.md",
@@ -270,21 +297,6 @@
     "Programovaci_technologie/Markdown/10_Radici-algoritmy.md",
     "Programovaci_technologie/Markdown/9_Datova-struktura-pole-a-vyhledavani-v-poli.md",
     "Programovaci_technologie/Markdown/8_Soubory-v-programovani.md",
-    "Programovaci_technologie/Markdown/6_Programovani-v-MS-Office-kod-VBA.md",
-    "Programovaci_technologie/Markdown/7_HTML-CSS.md",
-    "Programovaci_technologie/Markdown/5_MS-Access-I.md",
-    "Programovaci_technologie/Markdown/4_Teorie-DB.md",
-    "Programovaci_technologie/Markdown/3_MS-Excel-II.md",
-    "Cesky_jazyk/Files/Important/CJL_Teorie.pdf",
-    "Cesky_jazyk/Files/Important/Literární Pojmy.pdf",
-    "Cesky_jazyk/Files/Important/STRUKTURA ÚSTNÍ ZKOUŠKY - 4. ROČNÍK.docx",
-    "Cesky_jazyk/Files/Important/Slovní zásoba.odt",
-    "Cesky_jazyk/Files/Important",
-    "Cesky_jazyk/Files/New folder",
-    "Cesky_jazyk/Files/STRUKTURA ÚSTNÍ ZKOUŠKY - 4. ROČNÍK.docx",
-    "Cesky_jazyk/Files/Slovní zásoba.odt",
-    "Stavba_a_provoz_PC/Files/HW/Important/SpPC – hardware.pdf",
-    "Stavba_a_provoz_PC/Files/HW/Important/HW_okruhy.pdf",
     "_md_Images/Pasted image 20250511061315.png",
     "_md_Images/Pasted image 20250511061325.png",
     "_md_Images/Pasted image 20250510230251.png",
