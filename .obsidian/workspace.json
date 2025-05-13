@@ -6,20 +6,18 @@
       {
         "id": "d1c767f5909e67c8",
         "type": "tabs",
-        "dimension": 45.35891089108911,
+        "dimension": 52.84653465346535,
         "children": [
           {
             "id": "33bf3a4d8ab94dc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Programovaci_technologie/Markdown/1_Kodovani-dat.md",
-                "mode": "source",
-                "source": false
+                "file": "_md_Images/Pasted image 20250513074220.png"
               },
-              "icon": "lucide-file",
-              "title": "1_Kodovani-dat"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250513074220"
             }
           },
           {
@@ -42,6 +40,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Programovaci_technologie/Markdown/12_Dynamicky-web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12_Dynamicky-web"
+            }
+          },
+          {
+            "id": "6942dbf2ebcf9e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Main_Page.md",
                 "mode": "source",
                 "source": false
@@ -51,12 +63,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "862ad2a621128656",
         "type": "tabs",
-        "dimension": 54.64108910891089,
+        "dimension": 47.15346534653465,
         "children": [
           {
             "id": "f44b7c62c8099e06",
@@ -83,19 +95,19 @@
             }
           },
           {
-            "id": "4ceb71335d60f09a",
+            "id": "b2b32e5e69fad867",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Datové formáty.pdf"
+                "file": "Programovaci_technologie/Files/PVA/MaturitniOkruhy/PVA.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Datové formáty"
+              "title": "PVA"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,26 +271,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f627f24851ee2157",
+  "active": "6942dbf2ebcf9e57",
   "lastOpenFiles": [
-    "Programovaci_technologie/Markdown/1_Kodovani-dat.md",
-    "Programovaci_technologie/Markdown/3_MS-Excel-II.md",
-    "Programovaci_technologie/Markdown/2_MS-Excel-I.md",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/APV.pdf",
+    "Programovaci_technologie/Markdown/Extra.md",
+    "_md_Images/Pasted image 20250513074220.png",
+    "Programovaci_technologie/Markdown/12_Dynamicky-web.md",
+    "Programovaci_technologie/Markdown/4_Teorie-DB.md",
     "Main_Page.md",
+    "Programovaci_technologie/Markdown/11_SQL.md",
+    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/PVA.pdf",
+    "Programovaci_technologie/Markdown/6_Programovani-v-MS-Office-kod-VBA.md",
+    "Programovaci_technologie/Markdown/5_MS-Access-I.md",
+    "Programovaci_technologie/Markdown/3_MS-Excel-II.md",
+    "Programovaci_technologie/Markdown/1_Kodovani-dat.md",
+    "Programovaci_technologie/Markdown/2_MS-Excel-I.md",
+    "Programovaci_technologie/Markdown/8_Soubory-v-programovani.md",
+    "Programovaci_technologie/Markdown/9_Datova-struktura-pole-a-vyhledavani-v-poli.md",
+    "Programovaci_technologie/Markdown/10_Radici-algoritmy.md",
+    "Programovaci_technologie/Markdown/7_HTML-CSS.md",
+    "Programovaci_technologie/Markdown/13_Objekty-Atributy-Metody.md",
+    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/DML-Update.pdf",
+    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/SQL-Select.pdf",
+    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/DML-Insert.pdf",
+    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/DML-Delete.pdf",
+    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/DDL.pdf",
+    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/19_SQL-MDL_Zimola.pdf",
+    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/18_SQL-DDL_Kittler.pdf",
+    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/23. PVA – MySQL – SQL.pdf",
+    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/22. PVA – MySQL – DML.pdf",
+    "_md_Images/Pasted image 20250513064205.png",
+    "_md_Images/Pasted image 20250513064336.png",
+    "_md_Images/Pasted image 20250513064328.png",
+    "_md_Images/Pasted image 20250513064229.png",
+    "_md_Images/Pasted image 20250513064218.png",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/4_Teorie-DB/Prezentace/TeorieDB/TeorieDB2.JPG",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/4_Teorie-DB/Prezentace/TeorieDB/TeorieDB3.JPG",
+    "Programovaci_technologie/Files/APV/MaturitniOkruhy/4_Teorie-DB/Prezentace/TeorieDB/TeorieDB1.JPG",
     "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
     "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
     "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
-    "Programovaci_technologie/Markdown/Extra.md",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Datové formáty.pdf",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/02. APV – Rastrová grafika.pdf",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/01. APV – Datové formáty.pdf",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Zvuk.pdf",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Video.pdf",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Vektorová grafika.pdf",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/Rastrová grafika.pdf",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/05. APV – Zvuk.pdf",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/1_Kodovani-dat/04. APV – Video.pdf",
     "Programovaci_technologie/Markdown/25_Prvociselnost-a-jeji-testovani.md",
     "Programovaci_technologie/Markdown/24_Nahodna-cisla-a-Permutace.md",
     "Programovaci_technologie/Markdown/23_Kolekce.md",
@@ -286,27 +317,7 @@
     "Programovaci_technologie/Markdown/21_Numericka-matematika.md",
     "Programovaci_technologie/Markdown/20_Teorie-grafu.md",
     "Programovaci_technologie/Markdown/19_Algoritmy-pro-prevod-Morseova-abeceda-Sifrovani.md",
-    "Programovaci_technologie/Markdown/18_Teoreticke-vypocetni-modely.md",
-    "Programovaci_technologie/Markdown/17_Chyby-v-programovani-a-mechanismus-vyjimek.md",
-    "Programovaci_technologie/Markdown/16_ADT-Zasobnik-Fronta-Binarni-strom.md",
-    "Programovaci_technologie/Markdown/15_Datove-typy-Retezce-Enum.md",
-    "Programovaci_technologie/Markdown/14_Dedicnost-Rozhrani-Polymorfismus.md",
-    "Programovaci_technologie/Markdown/13_Objekty-Atributy-Metody.md",
-    "Programovaci_technologie/Markdown/12_Dynamicky-web.md",
-    "Programovaci_technologie/Markdown/11_SQL.md",
-    "Programovaci_technologie/Markdown/10_Radici-algoritmy.md",
-    "Programovaci_technologie/Markdown/9_Datova-struktura-pole-a-vyhledavani-v-poli.md",
-    "Programovaci_technologie/Markdown/8_Soubory-v-programovani.md",
     "_md_Images/Pasted image 20250511061315.png",
-    "_md_Images/Pasted image 20250511061325.png",
-    "_md_Images/Pasted image 20250510230251.png",
-    "Pasted image 20250510230231.png",
-    "_md_Images/Pasted image 20250509204418.png",
-    "_md_Images/Pasted image 20250510012331.png",
-    "_md_Images/Pasted image 20250510012154.png",
-    "_md_Images/Pasted image 20250510012114.png",
-    "_md_Images/Pasted image 20250510010944.png",
-    "_md_Images/Pasted image 20250510010907.png",
     "Untitled.canvas"
   ]
 }
