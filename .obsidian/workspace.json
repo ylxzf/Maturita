@@ -4,52 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "d1c767f5909e67c8",
+        "id": "cf6f1979ff6bdde3",
         "type": "tabs",
-        "dimension": 52.84653465346535,
+        "dimension": 47.9579207920792,
         "children": [
           {
-            "id": "33bf3a4d8ab94dc7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_md_Images/Pasted image 20250513074220.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250513074220"
-            }
-          },
-          {
-            "id": "0ca119eaa6b9e94c",
+            "id": "edd1eaeb7be1e0d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programovaci_technologie/Markdown/Extra.md",
+                "file": "Stavba_a_provoz_PC/Markdown/25_Bezpecnost-v-pocitacovych-sitich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extra"
+              "title": "25_Bezpecnost-v-pocitacovych-sitich"
             }
           },
           {
-            "id": "f627f24851ee2157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programovaci_technologie/Markdown/12_Dynamicky-web.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12_Dynamicky-web"
-            }
-          },
-          {
-            "id": "6942dbf2ebcf9e57",
+            "id": "176b5863e0bd0bbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,52 +36,62 @@
               "title": "Main_Page"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "862ad2a621128656",
         "type": "tabs",
-        "dimension": 47.15346534653465,
+        "dimension": 52.0420792079208,
         "children": [
-          {
-            "id": "f44b7c62c8099e06",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Stavba_a_provoz_PC/Files/OpS/MaturitniOkruhy/OPS.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "OPS"
-            }
-          },
           {
             "id": "35aa5c5d24a50383",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Programovaci_technologie/Files/APV/MaturitniOkruhy/APV.pdf"
+                "file": "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/POS.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "APV"
+              "title": "POS"
             }
           },
           {
-            "id": "b2b32e5e69fad867",
+            "id": "2ed56419ad229eea",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Programovaci_technologie/Files/PVA/MaturitniOkruhy/PVA.pdf"
+                "file": "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/25_Bezpecnost-v-pocitacovych-sitich/BezP_25.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "PVA"
+              "title": "BezP_25"
+            }
+          },
+          {
+            "id": "7f66995f14ede285",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/24_Smerovani/Smerovani_24.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Smerovani_24"
+            }
+          },
+          {
+            "id": "93f2d209670cd947",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/23_VLAN/VLAN_23v2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "VLAN_23v2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main_Page.md",
+                "file": "Stavba_a_provoz_PC/Markdown/13_Zakladni-prace-s-OS-Linux-terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Main_Page"
+              "title": "Backlinks for 13_Zakladni-prace-s-OS-Linux-terminal"
             }
           },
           {
@@ -271,53 +255,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6942dbf2ebcf9e57",
+  "active": "35aa5c5d24a50383",
   "lastOpenFiles": [
-    "Programovaci_technologie/Markdown/Extra.md",
-    "_md_Images/Pasted image 20250513074220.png",
-    "Programovaci_technologie/Markdown/12_Dynamicky-web.md",
-    "Programovaci_technologie/Markdown/4_Teorie-DB.md",
+    "Stavba_a_provoz_PC/Markdown/25_Bezpecnost-v-pocitacovych-sitich.md",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/POS.pdf",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/25_Bezpecnost-v-pocitacovych-sitich/BezP_25.pdf",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/25_Bezpecnost-v-pocitacovych-sitich/25. POS - Bezpečnost v počítačových sítích.pdf",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/25_Bezpecnost-v-pocitacovych-sitich/25. Bezpečnost v počítačových sítích.pdf",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/24_Smerovani/Smerovani_24.pdf",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/23_VLAN/VLAN_23v2.pdf",
     "Main_Page.md",
-    "Programovaci_technologie/Markdown/11_SQL.md",
-    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/PVA.pdf",
-    "Programovaci_technologie/Markdown/6_Programovani-v-MS-Office-kod-VBA.md",
-    "Programovaci_technologie/Markdown/5_MS-Access-I.md",
-    "Programovaci_technologie/Markdown/3_MS-Excel-II.md",
-    "Programovaci_technologie/Markdown/1_Kodovani-dat.md",
-    "Programovaci_technologie/Markdown/2_MS-Excel-I.md",
-    "Programovaci_technologie/Markdown/8_Soubory-v-programovani.md",
-    "Programovaci_technologie/Markdown/9_Datova-struktura-pole-a-vyhledavani-v-poli.md",
-    "Programovaci_technologie/Markdown/10_Radici-algoritmy.md",
-    "Programovaci_technologie/Markdown/7_HTML-CSS.md",
-    "Programovaci_technologie/Markdown/13_Objekty-Atributy-Metody.md",
-    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/DML-Update.pdf",
-    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/SQL-Select.pdf",
-    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/DML-Insert.pdf",
-    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/DML-Delete.pdf",
-    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/DDL.pdf",
-    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/19_SQL-MDL_Zimola.pdf",
-    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/Prezentace/18_SQL-DDL_Kittler.pdf",
-    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/23. PVA – MySQL – SQL.pdf",
-    "Programovaci_technologie/Files/PVA/MaturitniOkruhy/11_SQL/22. PVA – MySQL – DML.pdf",
-    "_md_Images/Pasted image 20250513064205.png",
-    "_md_Images/Pasted image 20250513064336.png",
-    "_md_Images/Pasted image 20250513064328.png",
-    "_md_Images/Pasted image 20250513064229.png",
-    "_md_Images/Pasted image 20250513064218.png",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/4_Teorie-DB/Prezentace/TeorieDB/TeorieDB2.JPG",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/4_Teorie-DB/Prezentace/TeorieDB/TeorieDB3.JPG",
-    "Programovaci_technologie/Files/APV/MaturitniOkruhy/4_Teorie-DB/Prezentace/TeorieDB/TeorieDB1.JPG",
-    "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
-    "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
+    "Stavba_a_provoz_PC/Markdown/23_VLAN.md",
+    "_md_Images/Dynamic-Routing-Protocol.png",
+    "_md_Images/Pasted image 20250516031137.png",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/20_Referencni-model-ISO-OSI-a-sitovy-model-TCP-IP/ISO_OSI_otz20v3HLF.pdf",
+    "Stavba_a_provoz_PC/Markdown/22_Adresace-v-sitich.md",
+    "Stavba_a_provoz_PC/Markdown/24_Smerovani.md",
+    "Stavba_a_provoz_PC/Markdown/21_Sitove-prvky.md",
     "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
-    "Programovaci_technologie/Markdown/25_Prvociselnost-a-jeji-testovani.md",
-    "Programovaci_technologie/Markdown/24_Nahodna-cisla-a-Permutace.md",
-    "Programovaci_technologie/Markdown/23_Kolekce.md",
-    "Programovaci_technologie/Markdown/22_Algoritmus-Pristupy-k-vyvoji-SW-Testovani.md",
+    "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
+    "Stavba_a_provoz_PC/Markdown/5_Vstupni-zarizeni.md",
+    "Stavba_a_provoz_PC/Markdown/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky.md",
+    "Stavba_a_provoz_PC/Markdown/7_Vystupni-zarizeni-2-Tiskarny.md",
+    "Stavba_a_provoz_PC/Markdown/8_Napajeni-diagnostika-a-testovani-PC.md",
+    "Stavba_a_provoz_PC/Markdown/9_Operacni-system.md",
+    "Stavba_a_provoz_PC/Markdown/10_Zavedeni-OS-Vice-OS-na-jednom-pevnem-disku.md",
+    "Stavba_a_provoz_PC/Markdown/11_Prace-s-opravnenimi-a-s-registry-OS-Windows-prikazovy-radek.md",
+    "Stavba_a_provoz_PC/Markdown/12_Zalohovani-struktur-na-pevem-disku.md",
+    "Stavba_a_provoz_PC/Markdown/13_Zakladni-prace-s-OS-Linux-terminal.md",
+    "Stavba_a_provoz_PC/Markdown/14_Virtualizace-a-virtualni-PC.md",
+    "Stavba_a_provoz_PC/Markdown/15_Windows-server-2008-2012-DNS-Princip-AD.md",
+    "Stavba_a_provoz_PC/Markdown/16_Bezpecnost-v-OS.md",
+    "Stavba_a_provoz_PC/Markdown/17_Souborove-systemy-opravneni-v-ruznych-OS.md",
+    "Stavba_a_provoz_PC/Markdown/19_Pristupove-metody-k-mediu.md",
+    "_md_Images/Pasted image 20250515184715.png",
+    "_md_Images/Pasted image 20250516023726.png",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/22_Adresace-v-sitich/Adresace_22v3.pdf",
+    "_md_Images/Pasted image 20250516022101.png",
+    "_md_Images/Pasted image 20250516020213.png",
+    "_md_Images/Pasted image 20250516015343.png",
+    "Stavba_a_provoz_PC/Markdown/20_Referencni-model-ISO-OSI-a-sitovy-model-TCP-IP.md",
+    "_md_Images/Pasted image 20250516013847.png",
+    "_md_Images/Pasted image 20250516013802.png",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/21_Sitove-prvky/SitovePrvky_21v2.pdf",
+    "_md_Images/Pasted image 20250516013325.png",
+    "Stavba_a_provoz_PC/Markdown/18_Pocitacova-sit.md",
     "Programovaci_technologie/Markdown/21_Numericka-matematika.md",
-    "Programovaci_technologie/Markdown/20_Teorie-grafu.md",
-    "Programovaci_technologie/Markdown/19_Algoritmy-pro-prevod-Morseova-abeceda-Sifrovani.md",
-    "_md_Images/Pasted image 20250511061315.png",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/19_Pristupove-metody-k-mediu/PristMeth_19v2F.pdf",
     "Untitled.canvas"
   ]
 }

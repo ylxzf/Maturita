@@ -88,9 +88,9 @@ tags:
 
 ##### Neunifikovaný shader
 - Typy
+	- Geometry shader
 	- Vertex shader
 	- Pixel shader
-	- Geometry shader
 	- Tessellation shader
 	- Compute shader
 - $ Každá část čipu byla určena pro daný shader
@@ -159,7 +159,7 @@ tags:
 ### Rychlosti síťových karet
 - 10 Mbps - zastaralé
 - 10/100 Mbps - zastaralé
-- 10/100/1000 Mbps - zastaralé
+- 10/100/1000 Mbps
 
 ### #MAC_Adresa
 - MAC - Media Access Control

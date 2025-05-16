@@ -56,7 +56,7 @@ tags:
 	- SSD disky a #RAID
 	- ~4GB RAM * Virtuál
 - #Active_Directory
-	- - Není potřeba moc paměti
+	- Není potřeba moc paměti
 	- Počet síťových karet, podle zatížení
 - #IIS
 	- Počet síťovek, podle zatížení
@@ -87,7 +87,7 @@ tags:
 ### #Active_Directory 
 - AD - Active Directory
 - $ Správa domény
-- ! Přidat počítač do AD může doménový správce, nebo uživatel s těmito oprávněními.
+- ! Přidat počítač do AD může doménový správce, nebo uživatel s těmito oprávněními
 - ! Odebrat počítač z AD může lokální správce, doménový správce nebo uživatel s těmito oprávněními
 
 ### #IIS
@@ -105,9 +105,9 @@ tags:
 - $ Funguje jako dictionary - každá doména má jedinečnou IP Adresu
 	- **[www.example.com](http://www.example.com)** - 93.184.216.34
 - $ DNS - Forward zone
-	- Překlad IP adresy na hostname
+	- @ Překlad IP adresy na hostname
 - $ DNS - Reverse zone
-	- Překlad hostname na IP
+	- @ Překlad hostname na IP
 
 ---
 

@@ -2,3 +2,132 @@
 tags:
   - POS
 ---
+## Síť
+- $ Spojení dvou a více uzlů, za pomoci pasivních (kabelů, Wi-Fi) a aktivních prvků (switch, router…) při čemž toto spojení umožňuje sdílení svých prostředků (hardwarové, softwarové)
+- Umožňuje:
+	- Sdílení informací
+	- Komunikaci
+	- ...
+- Skládá se z: 
+	- Síťového HW
+		- Kabely
+		- Konektory
+		- Síťové karty
+		- Aktivní prvky
+	- Síťového SW
+	- Správce
+	- Stanic
+
+### Dělení
+#### Dle rozsahu
+- PAN - Personal Area Network (Osobní síť)
+	- Komunikace mezi mobilními telefony
+	- Velice malý dosah (několik metrů)
+- $ LAN - Local Area Network (Síť místního rozsahu)
+	- @ Geograficky omezena
+		- @ Stovky metrů až kilometry
+	- Ethernet
+	- Až 10 Gbps
+- $ MAN - Metropolitan Area Network (Metropolitní síť / Síť městského rozsahu)
+	- @ Velikost mezi LAN a WAN
+	- @ Propojení jednotlivých institucí města
+	- Páteřní rozvod - optika
+- $ WAN - Wide Area Network (Síť velkého rozsahu)
+	- @ Spojuje geograficky velmi rozlehlou oblast
+	- Páteře jsou tvořeny High speed optickými kabely
+	- Internet
+		- Občas považován za GAN
+#### Dle media
+- Kabel
+	- Metalický
+		- $ Koaxiální - Souosý
+			- @ Asymetrický elektrický kabel
+		- $ Twisted pair - Kroucená dvojlinka
+			- @ Symetrický kabel
+			- @ Kroucené kvůli přeslechům
+			- @ 4 páry vodičů (zelená, oranžová, modrá, hnědá)
+			- UTP - Unshielded TP
+			- STP - Shielded TP
+				- Kovové opletení
+					- Zvyšuje ochranu před vnějším rušením
+	- Optický
+		- $ SingleMode
+			- @ Jeden paprsek
+			- @ Vyšší přenosová kapacita
+			- Větší vzdálenosti
+			- Dražší
+		- $ MultiMode
+			- Více světelných paprsků (vidů)
+			- Krátké vzdálenosti
+			- Průměr jádra = 62,5mm
+			- Levnější
+- Bezdrát
+	- Rádiové vlny
+		- $ Wi-Fi
+			- @ Označení pro několik standardů IEEE 802.11; a, b, g, n, ac
+			- Šifrování
+				- WEP
+				- WPA
+				- WPA2
+	- Světelný paprsky
+#### Dle topologie
+##### Základní
+- $ Bus - Sběrnicová
+	- @ Každá stanice je připojena ke společnému kabelu
+	- @ Na obou koních kabelu se nachází terminátor
+	- Výhody
+		- @ Lze realizovat bez aktivních prvků
+		- Porucha jednoho uzlu nemá vliv na provoz ostatních uzlů
+	- Nevýhody
+		- @ Nesnadná lokalizace závad
+		- @ Může vysílat jenom jeden uzel
+		- @ Porucha na sběrnici / terminátoru = vyřadí celou síť
+- $ Star - Hvězdicová
+	- Využívá HUB
+		- @ Směruje data z jednoho uzlu do jiných
+	- $ Každá stanice je připojena k HUBU TP kabelem
+	- HUB rozvětví signál dál
+		- ! Spíš se využívá Switch
+		- @ Souběžná komunikace více uzlů
+	- Výhody
+		- @ Snadný setup, rozšíření
+		- @ Snadné nalezení závad
+		- Jeden přerušený kabel nemá vliv na celou síť
+	- Nevýhody
+		- Více kabelů
+		- Potřeba aktivní prvek
+			- ! Porucha aktivního prvku - Výpadek celé sítě
+- $ Ring - Kruhová
+	- $ Jeden uzel připojen k dalším dvěma uzlům tak, že vytvoří kruh
+	- Výhody
+		- @ Bez kolizí
+		- Minimální zpoždění
+		- @ Lehký přenos dat
+			- Paket se posílá jedním směrem
+	- Nevýhody
+		- @ Data jdou přes všechny uzly
+			- Větší pravděpodobnost poruchy
+		- ! Porucha jedné stanice - Vyřazení celé sítě
+
+##### Složené
+- Tree - Strom
+	- @ Vychází z jednoho aktivního prvku
+		- Na něj jsou připojeny další aktivní prvky
+- Backbone - Páteř
+	-  Na páteřní síť jsou připojeny aktivní prvky
+- Mesh - Mřížka
+	- @ Každý uzel propojený s každým uzlem
+
+#### Dle funkce
+- Klient-server
+- Peer-to-peer
+- NOS
+	- Je speciální network OS
+	- Linux např. Redhead, Debian
+	- Windows server
+	- Novell NetWare
+- Identifikace
+	- Identifikuji se jako někdo
+	- Authentication - #Autentizace
+	- Authorization - #Autorizace
+	- Accounting - Zpoplatnění

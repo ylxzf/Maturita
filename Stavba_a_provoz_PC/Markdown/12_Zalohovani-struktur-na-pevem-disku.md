@@ -44,7 +44,7 @@ tags:
 - ! Na 1 oddíl nelze nainstalovat fyzicky 2 OS nebo více #Souborový_systém 
 - $ Rychlejší zálohy
 ### MBR
-![[3_Ulozna-zarizeni#MBR]]
+![[17_Souborove-systemy-opravneni-v-ruznych-OS#MBR]]
 
 ### GPT
-![[3_Ulozna-zarizeni#GPT]]
+![[17_Souborove-systemy-opravneni-v-ruznych-OS#GPT]]

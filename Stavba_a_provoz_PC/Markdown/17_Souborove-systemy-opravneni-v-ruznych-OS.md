@@ -23,7 +23,7 @@ tags:
 - $ Hlavní spouštěcí záznam, který je umístěn v 1. #Sektor u disku
 - ! MBR dokáže adresovat maximálně 2 TB disky
 - $ Nástupcem je #GPT což je součást standardu EFI
-- $ Velikost MBR je 512b
+- $ Velikost MBR je 512B
 	- Zavaděč OS
 	- Tabulka rozdělení disku na logické oddíly
 	- Číselný identifikátor disku

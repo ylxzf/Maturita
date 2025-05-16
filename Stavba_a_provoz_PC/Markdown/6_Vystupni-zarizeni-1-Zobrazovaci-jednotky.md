@@ -109,10 +109,10 @@ tags:
 - LCD - Liquid Crystal Display
 - Obsahuje 3 LCD
 	- 1 pro každou ze základních barev RGB
-- Pomocí optické soustavy (dichroická zrcadla, čočky) je k těmto displejům přivedeno světlo od projekční lampy
-	- Dichroické zrcadlo má schopnost odrážet či propouštět světlo v závislosti na vlnové délce
-- Každý displej z procházejícího světla propustí jednu barevnou složku a příslušně upraví jas
-- Pomocí optického hranolu jsou tři světelné paprsky opět spojeny do jednoho, který je odeslán do objektivu a na projekční plochu
+- $ Pomocí optické soustavy (dichroická zrcadla, čočky) je k těmto displejům přivedeno světlo od projekční lampy
+	- @ Dichroické zrcadlo má schopnost odrážet či propouštět světlo v závislosti na vlnové délce
+- $ Každý displej z procházejícího světla propustí jednu barevnou složku a příslušně upraví jas
+- $ Pomocí optického hranolu jsou tři světelné paprsky opět spojeny do jednoho, který je odeslán do objektivu a na projekční plochu
 - Princip:
 	- Světlo z lampy dopadne na první zrcadlo, to propustí jednu složku a zbylé světlo odrazí
 	- následuje zrcadlo pro druhou a nakonec pro třetí složku. Odražené paprsky světla pokračují samostatně do přiděleného LCD
