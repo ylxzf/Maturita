@@ -23,7 +23,7 @@
 22. [x] [[22_Adresace-v-sitich|Adresace v sítích]]
 23. [x] [[23_VLAN|VLAN]]
 24. [x] [[24_Smerovani|Směrování]]
-25. [ ] [[25_Bezpecnost-v-pocitacovych-sitich|Bezpečnost v počítačových sítích]]
+25. [x] [[25_Bezpecnost-v-pocitacovych-sitich|Bezpečnost v počítačových sítích]]
 ## Programovací technologie
 
 1. [x] [[1_Kodovani-dat|Kódování dat]]

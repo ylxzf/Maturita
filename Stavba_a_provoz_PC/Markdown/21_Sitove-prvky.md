@@ -177,6 +177,7 @@ tags:
 - $ HW prvek - Pracuje s daty přes SW
 - $ Oproti switchi je pomalejší – paket musí nejprve načíst do své vyrovnávací paměti (Cache) a až poté se rozhodne, co s ním bude dál dělat
 - $ Pracuje s IP adresami - rozhoduje podle IP adresy
+- $ Má minimálně 2 rozhraní
 - ! Pokud obdrží blok dat s adresou, kterou nemá v tabulce, tak paket zruší a odesílateli odešle chybové hlášení
 - Routovací (Směrovací) tabulka
 	- |Network destination|Netmask|Gateway|Interface|Metric|

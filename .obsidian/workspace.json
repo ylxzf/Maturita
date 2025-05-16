@@ -91,7 +91,8 @@
               "title": "VLAN_23v2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,23 +256,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "35aa5c5d24a50383",
+  "active": "edd1eaeb7be1e0d8",
   "lastOpenFiles": [
+    "Main_Page.md",
     "Stavba_a_provoz_PC/Markdown/25_Bezpecnost-v-pocitacovych-sitich.md",
-    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/POS.pdf",
     "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/25_Bezpecnost-v-pocitacovych-sitich/BezP_25.pdf",
+    "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/POS.pdf",
+    "Stavba_a_provoz_PC/Markdown/21_Sitove-prvky.md",
+    "Stavba_a_provoz_PC/Markdown/24_Smerovani.md",
+    "Stavba_a_provoz_PC/Markdown/22_Adresace-v-sitich.md",
+    "Stavba_a_provoz_PC/Markdown/23_VLAN.md",
+    "Programovaci_technologie/Markdown/24_Nahodna-cisla-a-Permutace.md",
     "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/25_Bezpecnost-v-pocitacovych-sitich/25. POS - Bezpečnost v počítačových sítích.pdf",
     "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/25_Bezpecnost-v-pocitacovych-sitich/25. Bezpečnost v počítačových sítích.pdf",
     "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/24_Smerovani/Smerovani_24.pdf",
     "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/23_VLAN/VLAN_23v2.pdf",
-    "Main_Page.md",
-    "Stavba_a_provoz_PC/Markdown/23_VLAN.md",
     "_md_Images/Dynamic-Routing-Protocol.png",
     "_md_Images/Pasted image 20250516031137.png",
     "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/20_Referencni-model-ISO-OSI-a-sitovy-model-TCP-IP/ISO_OSI_otz20v3HLF.pdf",
-    "Stavba_a_provoz_PC/Markdown/22_Adresace-v-sitich.md",
-    "Stavba_a_provoz_PC/Markdown/24_Smerovani.md",
-    "Stavba_a_provoz_PC/Markdown/21_Sitove-prvky.md",
     "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
     "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
     "Stavba_a_provoz_PC/Markdown/5_Vstupni-zarizeni.md",
@@ -300,7 +302,6 @@
     "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/21_Sitove-prvky/SitovePrvky_21v2.pdf",
     "_md_Images/Pasted image 20250516013325.png",
     "Stavba_a_provoz_PC/Markdown/18_Pocitacova-sit.md",
-    "Programovaci_technologie/Markdown/21_Numericka-matematika.md",
     "Stavba_a_provoz_PC/Files/PoS/MaturitniOkruhy/19_Pristupove-metody-k-mediu/PristMeth_19v2F.pdf",
     "Untitled.canvas"
   ]
