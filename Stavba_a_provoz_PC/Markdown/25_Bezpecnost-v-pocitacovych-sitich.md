@@ -82,9 +82,11 @@ tags:
 - $ Přijímá požadavky od klienta a sám je odesílá na server
 - $ Přijaté odpovědi z internetu předává zpět klientovi
 - Výhody:
-	- Zlepšuje bezpečnost (filtrování obsahu, blokování nebezpečných stránek).
-	- Zvyšuje rychlost díky ukládání často navštěvovaných stránek (cache).
-	- Skrývá IP adresu uživatele (anonymita).
+	- Zlepšuje bezpečnost (filtrování obsahu, blokování nebezpečných stránek)
+	- Zvyšuje rychlost díky ukládání často navštěvovaných stránek (cache)
+	- Skrývá IP adresu uživatele (anonymita)
+- Nevýhody:
+	- @ Velká latence
 
 ![[3_Ulozna-zarizeni#RAID]]
 

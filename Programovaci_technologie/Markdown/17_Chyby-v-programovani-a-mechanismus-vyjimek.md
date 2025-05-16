@@ -2,3 +2,10 @@
 tags:
   - PRM
 ---
+## Chyba
+- 
+
+---
+
+## Výjimka
+- 

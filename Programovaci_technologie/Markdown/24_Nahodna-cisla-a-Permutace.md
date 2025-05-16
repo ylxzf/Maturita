@@ -2,3 +2,5 @@
 tags:
   - PRM
 ---
+## Náhodná čísla
+- 
