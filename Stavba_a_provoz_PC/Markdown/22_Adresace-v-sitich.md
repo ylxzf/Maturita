@@ -8,7 +8,7 @@ tags:
 	- První polovina - 1-24 bitů je určen OUI
 	- Druhá polovina - 25-48 je specifická na NIC 
 - Je přiřazována síťové kartě (NIC - Network Interface Card)
-- Ve Window se jmenuje "Fyzická adresa"
+- Ve Windows se jmenuje "Fyzická adresa"
 - $ Vyskytuje se na L2 ISO/OSI
 - $ Skládá se ze 48 bitů
 - $ Šestice dvojciferných hexadecimálních čísel oddělených pomlčkami, dvojtečkami nebo mezerami nebo tři skupiny čtyř hexadecimálních čísel

@@ -73,6 +73,7 @@ tags:
 
 ### Konstanty
 - $ Pojmenovaný kus paměti, který nemůže měnit svou hodnotu za běhu programu
+- $ Klíčové slovo: `final`
 
 ---
 

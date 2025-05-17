@@ -6,104 +6,35 @@
       {
         "id": "cf6f1979ff6bdde3",
         "type": "tabs",
-        "dimension": 47.9579207920792,
         "children": [
           {
-            "id": "edd1eaeb7be1e0d8",
+            "id": "437bc26f257d03b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programovaci_technologie/Markdown/13_Objekty-Atributy-Metody.md",
+                "file": "Programovaci_technologie/Markdown/22_Algoritmus-Pristupy-k-vyvoji-SW-Testovani.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13_Objekty-Atributy-Metody"
+              "title": "22_Algoritmus-Pristupy-k-vyvoji-SW-Testovani"
             }
           },
           {
-            "id": "176b5863e0bd0bbb",
+            "id": "8b0beae8f8a3e730",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Main_Page.md",
-                "mode": "source",
-                "source": false
+                "file": "_md_Images/Pasted image 20250517191823.png"
               },
-              "icon": "lucide-file",
-              "title": "Main_Page"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250517191823"
             }
           }
-        ]
-      },
-      {
-        "id": "862ad2a621128656",
-        "type": "tabs",
-        "dimension": 52.0420792079208,
-        "children": [
-          {
-            "id": "85afe560cadb63e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/03. Objekty (třída, instance, konstruktor, garbage collector).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "03. Objekty (třída, instance, konstruktor, garbage collector)"
-            }
-          },
-          {
-            "id": "4fe69bb6c1a3331a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/04. Atributy tříd (statické vs. instanční, veřejné x privátní).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "04. Atributy tříd (statické vs. instanční, veřejné x privátní)"
-            }
-          },
-          {
-            "id": "1708bcd6dd91dc0c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/05. Atributy tříd (lokální x nelokální, viditelnost proměnných - stínění).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "05. Atributy tříd (lokální x nelokální, viditelnost proměnných - stínění)"
-            }
-          },
-          {
-            "id": "0deb67b06c9c63ff",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/06. Metody tříd (deklarace, přetěžování).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "06. Metody tříd (deklarace, přetěžování)"
-            }
-          },
-          {
-            "id": "0d13ab886dfb4d9b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/07. Parametry metod (předávané hodnotou vs. odkazem, jak je to v jazyce JAVA).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "07. Parametry metod (předávané hodnotou vs. odkazem, jak je to v jazyce JAVA)"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,53 +198,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "edd1eaeb7be1e0d8",
+  "active": "cacca645cdffaef6",
   "lastOpenFiles": [
-    "Main_Page.md",
+    "Programovaci_technologie/Markdown/25_Prvociselnost-a-jeji-testovani.md",
+    "_md_Images/Pasted image 20250517191823.png",
+    "Programovaci_technologie/Markdown/24_Nahodna-cisla-a-Permutace.md",
+    "Programovaci_technologie/Markdown/23_Kolekce.md",
+    "Programovaci_technologie/Markdown/22_Algoritmus-Pristupy-k-vyvoji-SW-Testovani.md",
+    "Programovaci_technologie/Markdown/18_Teoreticke-vypocetni-modely.md",
+    "Programovaci_technologie/Markdown/19_Algoritmy-pro-prevod-Morseova-abeceda-Sifrovani.md",
+    "Stavba_a_provoz_PC/Markdown/16_Bezpecnost-v-OS.md",
+    "Stavba_a_provoz_PC/Markdown/25_Bezpecnost-v-pocitacovych-sitich.md",
     "Programovaci_technologie/Markdown/13_Objekty-Atributy-Metody.md",
-    "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/03. Objekty (třída, instance, konstruktor, garbage collector).pdf",
+    "Programovaci_technologie/Markdown/17_Chyby-v-programovani-a-mechanismus-vyjimek.md",
+    "Programovaci_technologie/Markdown/16_ADT-Zasobnik-Fronta-Binarni-strom.md",
+    "Programovaci_technologie/Markdown/15_Datove-typy-Retezce-Enum.md",
+    "Programovaci_technologie/Markdown/14_Dedicnost-Rozhrani-Polymorfismus.md",
+    "Programovaci_technologie/Markdown/21_Numericka-matematika.md",
+    "_md_Images/Pasted image 20250517160429.png",
+    "Programovaci_technologie/Markdown/20_Teorie-grafu.md",
+    "_md_Images/Pasted image 20250517154450.png",
+    "_md_Images/Pasted image 20250517154439.png",
+    "DFS 1.gif",
+    "BFS.gif",
+    "DFS.gif",
+    "_md_Images/Pasted image 20250517144226.png",
+    "_md_Images/Pasted image 20250517141741.png",
+    "Main_Page.md",
+    "_md_Images/Pasted image 20250516204303.png",
+    "Untitled.md",
+    "Stavba_a_provoz_PC/Markdown/5_Vstupni-zarizeni.md",
+    "Stavba_a_provoz_PC/Markdown/2_Rozhrani-a-konektory.md",
+    "Stavba_a_provoz_PC/Markdown/21_Sitove-prvky.md",
+    "Stavba_a_provoz_PC/Markdown/22_Adresace-v-sitich.md",
+    "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
+    "Stavba_a_provoz_PC/Markdown/23_VLAN.md",
+    "Stavba_a_provoz_PC/Markdown/24_Smerovani.md",
+    "Programovaci_technologie/Files/PRM/MaturitniOkruhy/16_ADT-Zasobnik-Fronta-Binarni-strom/Prezentace/~$16_ADT_Pavlik.pptx",
+    "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/07. Parametry metod (předávané hodnotou vs. odkazem, jak je to v jazyce JAVA).pdf",
     "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/06. Metody tříd (deklarace, přetěžování).pdf",
     "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/05. Atributy tříd (lokální x nelokální, viditelnost proměnných - stínění).pdf",
-    "Programovaci_technologie/Files/PRM/MaturitniOkruhy/14_Dedicnost-Rozhrani-Polymorfismus/OOP.pdf",
-    "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/07. Parametry metod (předávané hodnotou vs. odkazem, jak je to v jazyce JAVA).pdf",
+    "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/03. Objekty (třída, instance, konstruktor, garbage collector).pdf",
     "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/04. Atributy tříd (statické vs. instanční, veřejné x privátní).pdf",
+    "Programovaci_technologie/Markdown/12_Dynamicky-web.md",
+    "Programovaci_technologie/Files/PRM/MaturitniOkruhy/14_Dedicnost-Rozhrani-Polymorfismus/OOP.pdf",
     "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/Prezentace/~$13_Objekty-Atributy-Metody_Hajek.pptx",
     "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/Objekty.pdf",
     "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/Metody_2.pdf",
-    "Programovaci_technologie/Files/PRM/MaturitniOkruhy/13_Objekty-Atributy-Metody/Metody.pdf",
-    "Programovaci_technologie/Markdown/14_Dedicnost-Rozhrani-Polymorfismus.md",
-    "Programovaci_technologie/Markdown/15_Datove-typy-Retezce-Enum.md",
-    "Programovaci_technologie/Markdown/16_ADT-Zasobnik-Fronta-Binarni-strom.md",
-    "Programovaci_technologie/Markdown/17_Chyby-v-programovani-a-mechanismus-vyjimek.md",
-    "Programovaci_technologie/Markdown/18_Teoreticke-vypocetni-modely.md",
-    "Programovaci_technologie/Markdown/19_Algoritmy-pro-prevod-Morseova-abeceda-Sifrovani.md",
-    "Programovaci_technologie/Markdown/20_Teorie-grafu.md",
-    "Programovaci_technologie/Markdown/21_Numericka-matematika.md",
-    "Programovaci_technologie/Markdown/22_Algoritmus-Pristupy-k-vyvoji-SW-Testovani.md",
-    "Programovaci_technologie/Markdown/23_Kolekce.md",
-    "Programovaci_technologie/Markdown/24_Nahodna-cisla-a-Permutace.md",
-    "Programovaci_technologie/Markdown/25_Prvociselnost-a-jeji-testovani.md",
-    "Programovaci_technologie/Markdown/12_Dynamicky-web.md",
-    "Programovaci_technologie/Files/PRM/MaturitniOkruhy/25_Prvociselnost-a-jeji-testovani/Images/prvociselnost.jpg",
-    "Stavba_a_provoz_PC/Markdown/25_Bezpecnost-v-pocitacovych-sitich.md",
-    "Stavba_a_provoz_PC/Markdown/21_Sitove-prvky.md",
-    "Stavba_a_provoz_PC/Markdown/24_Smerovani.md",
-    "Stavba_a_provoz_PC/Markdown/22_Adresace-v-sitich.md",
-    "Stavba_a_provoz_PC/Markdown/23_VLAN.md",
-    "_md_Images/Dynamic-Routing-Protocol.png",
-    "_md_Images/Pasted image 20250516031137.png",
-    "Stavba_a_provoz_PC/Markdown/1_Zakladni-deska-PC-CPU-RAM-BIOS-Setup.md",
-    "Stavba_a_provoz_PC/Markdown/4_Rozsirujici-karty-PC.md",
-    "Stavba_a_provoz_PC/Markdown/5_Vstupni-zarizeni.md",
-    "Stavba_a_provoz_PC/Markdown/6_Vystupni-zarizeni-1-Zobrazovaci-jednotky.md",
-    "Stavba_a_provoz_PC/Markdown/7_Vystupni-zarizeni-2-Tiskarny.md",
-    "_md_Images/Pasted image 20250515184715.png",
-    "_md_Images/Pasted image 20250516023726.png",
-    "_md_Images/Pasted image 20250516022101.png",
-    "_md_Images/Pasted image 20250516020213.png",
-    "_md_Images/Pasted image 20250516015343.png",
-    "_md_Images/Pasted image 20250516013847.png",
-    "_md_Images/Pasted image 20250516013802.png",
     "Untitled.canvas"
   ]
 }
